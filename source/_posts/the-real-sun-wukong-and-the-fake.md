@@ -1,10 +1,11 @@
 ---
 title: ' 六耳猕猴孙悟空 '
 date: 2020-02-15 21:22:42
-tags: ['forks','scaling','history','genesis',' 分叉 ',' 扩容 ',' 历史 ',’创世纪 ']
+tags: ['forks','scaling','history','genesis',' 分叉 ',' 扩容 ',' 历史 ',' 创世纪 ']
+img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFkQzsm1DcibzNjnsicstYNInZLXwmuIgPxqpgp7E0fGvjuptJCnnWoXXNCd92x7oibib9ibG9icOhyZW5dA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1'
 ---
 
-![](https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg "西游记之偷梁换柱")
 
 ## 真假美猴王
 
@@ -24,13 +25,13 @@ tags: ['forks','scaling','history','genesis',' 分叉 ',' 扩容 ',' 历史 ',�
 
 ## 分叉混沌史
 
-![bitcoin-forks](https://d33wubrfki0l68.cloudfront.net/f79c675162fea26f2b8e3757708eb5c3b02c9d97/0aeb4/images/bitcoin-forks.png)
+![bitcoin-forks](https://d33wubrfki0l68.cloudfront.net/f79c675162fea26f2b8e3757708eb5c3b02c9d97/0aeb4/images/bitcoin-forks.png "比特币分叉")
 
 比特币诞生至今，已经过了十个年头。在此期间，因持续几年的 [比特币扩容争议](http://www.bsvers.com/43.html "比特币扩容争议") 无果，比特币分叉为 Bitcoin Core 和 Bitcoin Cash，随后又分叉为 Bitcoin ABC 和 Bitcoin SV。
 
 区块链的分叉带来的是事实上的分裂，也造成了真假比特币的认知偏差。对于一知半解的圈外人来说，他们自然很容易受所看到的信息影响，将比特币 (Bitcoin) 的名号映射到 BTC 这个代号之上，而作为竞争者的 BSV 则因争议不断平白受到不少无端诋毁。这些人，恰恰很少能认真思考一下，比特币究竟能做什么。
 
-在上一篇文章 [Merkle 树下有乾坤](https://mp.weixin.qq.com/s?__biz=MzIxMzg2ODQ4Mw==&mid=2247483672&idx=1&sn=567152f944c3ca5722f7112419b125ca&chksm=97b10bb4a0c682a2bfa56dbaeaae8c15c4898ac9e83a1aa0e503835fdca0d914e171751a7337&token=541521272&lang=zh_CN#rd "Merkle 树下有乾坤") 里面我们说到，比特币一开始就是为大规模交易而设计的，可惜的是还在襁褓之中便被加上 1M 的枷锁，直到最近的创世纪升级后才得以解脱。所以说比特币曾经差点出师未捷身先死，用长使英雄泪满襟来形容并不为过。
+在上一篇文章 [Merkle 树下有乾坤](https://mp.weixin.qq.com/s/LSUQy-DpESp_yVpp88gR5w "Merkle 树下有乾坤") 里面我们说到，比特币一开始就是为大规模交易而设计的，可惜的是还在襁褓之中便被加上 1M 的枷锁，直到最近的创世纪升级后才得以解脱。所以说比特币曾经差点出师未捷身先死，用长使英雄泪满襟来形容并不为过。
 
 类似的争论还出现于对 P2SH 和 Segwit 的不同看法上，Core 的开发者沉迷于一些华而不实的奇巧淫技，却始终无法理解 **比特币是一个经济驱动的激励系统，其最独特而有别于前人的创新之处，是通过经济激励的手段解决了信任问题**。比特币的底层协议已经足够完善，之前遇到的绝大多数问题可以通过开放扩容让矿工自由竞争即可解决。而当人们从经济的角度来考虑比特币的问题的时候，例如巨块攻击的成本，零确认的安全性等等，其实很多问题都能迎刃而解。
 
@@ -48,17 +49,17 @@ CSW 博士在 [最新的文章](https://mp.weixin.qq.com/s/OdKEaTF2YgJb36un_6TBM
 
 这是 [比特币重生：重返创世纪](https://metanet.press/ "比特币重生：重返创世纪") 的开篇，是希望各位读者在研究比特币的技术细节之前，能先了解比特币之道。如果我们不搞清楚 “术” 与 “道” 的区别，就容易导致目标、方法、方向都走偏了，而这样的情况的确出现了：BTC 在暗网上流行作为毒品、军火、偷渡和色情等犯罪的支付工具，ICO 成为非法发行证券以及非法集资、金融诈骗、传销等违法犯罪活动的新方式，以致于大众听到比特币和区块链就敬而远之。
 
-中本聪 2011 年后便消声匿迹了，因看到自己的发明并人们用于非法交易而一度心灰意冷，差一点让比特币完全落入无政府主义支持者的手里。币圈里太多的人似乎陷入了竭斯底里的幻觉之中：
+中本聪 2011 年后便消声匿迹了，因看到自己的发明并人们用于构建暗网进行非法交易毒品而一度心灰意冷，差一点让比特币完全落入无政府主义支持者的手里。币圈里太多的人似乎陷入了竭斯底里的幻觉之中：
 
-* 他们整天喊着 Decentralize (去中心化)，却希望自己成为权利的中心；
+* 他们喊着 Decentralize (去中心化)，却希望自己成为权利的中心；
 * 他们宣称 Code Is Law (代码即法律)，却忘却了冷冰冰的代码无法正确处理复杂的社会纠纷；
 * 他们希望 Everyone Can Run a Node (人人可运行节点)，却不知那些业余的节点事实上拖累了整个系统的效率
 * ……
 
 而这一些广为流传道貌岸然的口号，事实上从来都不是比特币白皮书所描述的理念。
 
-再回头去看看比特币白皮书里 Honest 这个词出现了多少次吧！比特币是一个诚实系统，它最重要的组成成分恰恰不是密码学，而是经济学以及背后的人文思想，其伟大之处在于经济激励会使得多次博弈之后，诚实的力量会因坚守而得以积累而经得起考验，最终占据优势。
+再回头去看看 [比特币白皮书](https://nakamotoinstitute.org/bitcoin/ "Bitcoin: A Peer-to-Peer Electronic Cash System") 里 Honest 这个词出现了多少次吧！比特币是一个诚实系统，它最重要的组成成分恰恰不是密码学，而是经济学以及背后的人文思想，其伟大之处在于经济激励会使得多次博弈之后，诚实的力量会因坚守而得以积累而经得起考验，最终占据优势。
 
 而这，正是 Metanet 的奥义所在：每一笔交易都有迹可循，每个人对自己的交易负责，而比特币矿工会如实打包记录到区块链上，普天之下，无论个人还是政府均一视同仁。你可以选择如何花费自己的币，但在被人顺藤摸瓜揪出来审视的时候，希望能够经得起人们的质疑和检验。毕竟，公开透明能够消除许多见不得光的操作，The best cure for corruption is sunshine.
 
-题图：西游记之偷梁换柱
+己所不欲，勿施于人。当你年岁已高，将比特币传给自己子孙的时候，敢不敢告诉他们，自己当年曾用比特币做过什么呢？
