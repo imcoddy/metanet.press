@@ -1,3 +1,6 @@
 [submodule "themes/matery"]
 	path = themes/matery
 	url = https://github.com/imcoddy/hexo-theme-matery-metanet-press.git
+[submodule "rebirth"]
+	path = rebirth
+	url = https://github.com/imcoddy/rebirth-of-bitcoin.git
