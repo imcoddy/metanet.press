@@ -53,9 +53,17 @@ after_script:
     # - echo "metanet.press" > CNAME
     - git add .
     - git commit -m "Update Metanet.Press By TravisCI With Build $TRAVIS_BUILD_NUMBER"
-    - git remote add origin https://${REPO}
-    - git push --force --quiet "https://${GH_TOKEN}@${REPO}" master:gh-pages
+    # - git remote add origin https://${REPO}
+    # - git push --force --quiet "https://${GH_TOKEN}@${REPO}" master:gh-pages
 
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  local_dir: public
+  on:
+    branch: develop
 
 # 环境变量
 env:
