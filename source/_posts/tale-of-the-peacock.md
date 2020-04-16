@@ -1,9 +1,11 @@
 ---
-title: 孔雀开屏为哪般
+title: 孔雀开屏为哪般：隐藏在比特币算力背后的秘密
 date: 2020-02-12 21:35:01
-tags: [hash, pow, double-spend, mining, '工作量证明', '挖矿', '双花']
-img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFkwLibc166u1aFCsazenfSO5EZ5IMMvbu20EFdgiake6nbPnjc1icWwmK6IiafrGpic3GVds4bTeGbkoug/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1'
+tags: [hash, pow, double-spend, mining, '工作量证明', '挖矿', '双花', '算力']
+img: 'https://pic1.zhimg.com/v2-fc148988db0eaf75122f1e774497b614_1200x500.jpg'
 ---
+
+![](https://pic1.zhimg.com/v2-fc148988db0eaf75122f1e774497b614_1200x500.jpg)
 
 ## 孔雀开屏
 
@@ -20,3 +22,7 @@ img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFkwLibc166u1aFCsazenfSO5EZ5IMMvbu
 矿工的算力也是一样的，它呈现的是当前矿工算力在整个网络的占比情况，你占有的算力越多，就越容易出现在人们的视野中。这也是为什么比特币矿工不能作恶去双花的原因，因为小算力即使想双花也常常心有余而力不足，而大矿工要作恶是很容易被抓住的，一个作了恶的矿工就像是一只长了五米尾巴的孔雀，在投入了无数资源去做 hash 计算的无用功后(要计算合法区块时的 hash 计算就是在做无用功。这就是这个系统的意义所在，PoW 的奥义就是让 ASIC 矿机做无用功来增加其沉没成本)，为了一杯咖啡的钱而让自己之前的投资打水漂并不符合矿工趋利的原则。
 
 影响矿工打包收益的因素还有很多，比如根据交易类型采取不同的打包策略，以及提高与其它矿工的连接紧密度等。对于长期投入的矿工来说，应该合理地分配有限的资源全面提升避免短板，而不是一味地增加算力长一条畸形的长尾巴。
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>

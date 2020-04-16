@@ -1,8 +1,8 @@
 ---
-title: ' 六耳猕猴孙悟空 '
+title: ' 六耳猕猴孙悟空：BSV与BTC哪个才是真的比特币'
 date: 2020-02-15 21:22:42
-tags: ['forks','scaling','history','genesis',' 分叉 ',' 扩容 ',' 历史 ',' 创世纪 ']
-img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFkQzsm1DcibzNjnsicstYNInZLXwmuIgPxqpgp7E0fGvjuptJCnnWoXXNCd92x7oibib9ibG9icOhyZW5dA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1'
+tags: ['fork','scaling','history','genesis','debate','分叉','扩容','历史','创世纪']
+img: 'https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg'
 ---
 
 ![](https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg "西游记之偷梁换柱")
@@ -63,3 +63,7 @@ CSW 博士在 [最新的文章](https://mp.weixin.qq.com/s/OdKEaTF2YgJb36un_6TBM
 而这，正是 Metanet 的奥义所在：每一笔交易都有迹可循，每个人对自己的交易负责，而比特币矿工会如实打包记录到区块链上，普天之下，无论个人还是政府均一视同仁。你可以选择如何花费自己的币，但在被人顺藤摸瓜揪出来审视的时候，希望能够经得起人们的质疑和检验。毕竟，公开透明能够消除许多见不得光的操作，The best cure for corruption is sunshine.
 
 己所不欲，勿施于人。当你年岁已高，将比特币传给自己子孙的时候，敢不敢告诉他们，自己当年曾用比特币做过什么呢？
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>

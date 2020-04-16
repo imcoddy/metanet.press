@@ -109,3 +109,7 @@ date: 2020-02-16 17:52:12
 诚然，上面所说的还需要许多开发者共同努力、做出更简洁的应用才能让更多的用户方便使用，但背后的道理并不难理解。EDI（Electronic Data Interchange，电子数据交换）的发展已经至少经历了 20 多年，它用一种国际公认的标准格式，形成结构化的事务处理的报文数据格式，通过计算机通信网络，使各有关部门、公司与企业之间进行数据交换与处理，并完成以贸易为中心的全部业务过程。这些信息，是 Metanet 上源源不断的交易的源泉，我们从不久前[美国医疗数据公司EHR Data与nChain合作，推出医疗隐私数据库](https://coingeek.com/ehr-data-to-migrate-41-years-of-healthcare-data-to-bitcoin-sv/ "美国医疗数据公司EHR Data与nChain合作，推出医疗隐私数据库")里，已经看到了这个趋势。
 
 回到文章的开头，曹丕为了巩固自己地位不惜加害曹植，本质上还是希望自己能够占有足够的资源，但要成就一番伟业，光靠耍那些小聪明是远远不够的。比特币 SHA256 矿机挖矿所消耗电力的是资源，Metanet 上不断积累的信息亦是资源。如今，一方面 BSV 内修贤德不断提升以容纳万物，另一方面中本聪初心不改坚持不懈欲以正其名义，萝卜与大棒双管齐下，距离 BTC 这个庞氏骗局泡沫破灭还有多久呢？让我们拭目以待。
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>

@@ -1,13 +1,13 @@
 ---
-title: 小世界里大天地
+title: 小世界里大天地：比特币就是现实世界的桃花源
 tags: [bsv, mining, ' 小世界网络 ', ' 挖矿 ']
-img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFlIOpag2oiclsaplrAXjozxRPXGBSUfLycDIN4E3oM8iaRGo2Hoibbge9ibekBkWfF8FToutgpEf57yrg/0?wx_fmt=jpeg'
+img: 'https://pic4.zhimg.com/v2-8f50257d495c063f9469fb883a79f194_1200x500.jpg'
 date: 2020-02-19 20:19:09
 ---
 
 ## 再读桃花源
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFlIOpag2oiclsaplrAXjozxRPXGBSUfLycDIN4E3oM8iaRGo2Hoibbge9ibekBkWfF8FToutgpEf57yrg/0?wx_fmt=jpeg)
+![](https://pic4.zhimg.com/v2-8f50257d495c063f9469fb883a79f194_1200x500.jpg)
 
 > 土地平旷，屋舍俨然，有良田，美池，桑，竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人；黄发，垂髫，并怡然自乐。 -- 桃花源记
 
@@ -66,3 +66,7 @@ https://www.bilibili.com/video/av69007728
 事实上，随着矿工的竞争充分以及交易的类型增多，比特币矿工组成的小世界网络会进化形成一个[超小世界的 Mandala 网络](https://www.nature.com/articles/srep09082 "Mandala Networks: ultra-small-world and highly sparse graphs")，其构成了 Metanet 的核心根基。不过由于时间有限，这部分只能改天再和大家分享了。
 
 再回到开头的桃花源中，那里没有村社一类的基层组织，又因与世隔绝，外界一切机构组织都无由对之施用权力，人们各行其职，生活得自由自在。而比特币的矿工们，何尝不是生活在一片桃花源中呢？
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>

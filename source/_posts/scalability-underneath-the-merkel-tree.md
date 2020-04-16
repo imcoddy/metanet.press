@@ -1,9 +1,14 @@
 ---
 title: 'Merkle 树下有乾坤'
-tags: ['merkle-tree']
-img: 'https://mmbiz.qpic.cn/mmbiz_png/5EsQe61CaFk90UkP5INQKVJTf5QdUTN4N62SNO5Xw5pdC9DUKKUKFkBo9rIqZfc67GRI4Yx3hm5yT4NUcs966A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1'
+tags:
+  - 默克尔树
+  - merkle-tree
+  - bitcoin
+  - tech
+img: 'https://imgkr.cn-bj.ufileos.com/a82e2dbd-55cd-4fa5-99ca-f3c1bd66b209.webp'
 date: 2020-02-13 22:05:11
 ---
+![](https://imgkr.cn-bj.ufileos.com/a82e2dbd-55cd-4fa5-99ca-f3c1bd66b209.webp)
 
 ## 一树一乾坤
 
@@ -46,3 +51,7 @@ date: 2020-02-13 22:05:11
 > “现有的 Visa 信用卡网络每天在全球范围内处理约 1500 万笔互联网交易。比特币仅用现有的硬件就已经可以达到更大规模，而且成本只是信用卡交易的一小部分。比特币从未真正达到规模上限。” - 中本聪
 
 再回首看中本聪这句话时，不禁感叹比特币曾出师未捷身先死，长使英雄泪满襟。
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>

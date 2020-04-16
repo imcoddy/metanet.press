@@ -2,9 +2,11 @@
 title: 减半丧钟为谁响 - 比特币生死大考谁将能度过难关？你想知道和不想知道的都在这里。
 tags:
   - bsv
-  - 减半
   - halving
+  - hash
+  - invest
   - mining
+  - 减半
 img: ''
 date: 2020-03-07 10:45:57
 ---
@@ -107,3 +109,7 @@ date: 2020-03-07 10:45:57
 当市场因减半而打破平衡，无法承载那么多算力的时候，那些溢出的算力将何去何从呢？新三国演义谁又能笑到最后？这些微博上的從網同學三个月前已经在 [焚烧郁金香](https://weibo.com/ttarticle/p/show?id=2309404447147033493641 "從網同學：焚烧郁金香") 一文中推演了一番。如今战斗的号角已经响起，几个月前还不以为然的你，是否已经嗅到那即将到来的现实：比特币将凤凰涅槃，并按照中本聪愿景重回创世纪？
 
 只是，许多年过去后，这次减半也只会是人类历史上平淡无奇的淡淡一笔，毕竟，被庄子截了又截的木杆总长依旧不过一尺，One Satoshi is still one satoshi :)
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
