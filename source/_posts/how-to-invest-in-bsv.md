@@ -3,9 +3,11 @@ title: 君若中莫负妾身 如何从 BSV 上赚钱？
 tags:
   - bsv
   - invest
-img: ''
+  - metanet
+img: 'https://imgkr.cn-bj.ufileos.com/f8d1338b-5158-4589-a2ed-b638e7e9170e.jpg'
 date: 2020-03-16 18:54:26
 ---
+
 ![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
 本文首发于微信公众号：邱少闲聊 Metanet，欢迎搜索关注第一时间获取更新。
 

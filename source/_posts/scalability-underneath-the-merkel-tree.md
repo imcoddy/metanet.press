@@ -1,9 +1,10 @@
 ---
-title: 'Merkle 树下有乾坤'
+title: 'Merkle 树下有乾坤：比特币原本就是为扩容而生'
 tags:
   - 默克尔树
   - merkle-tree
   - bitcoin
+  - scaling
   - tech
 img: 'https://imgkr.cn-bj.ufileos.com/a82e2dbd-55cd-4fa5-99ca-f3c1bd66b209.webp'
 date: 2020-02-13 22:05:11

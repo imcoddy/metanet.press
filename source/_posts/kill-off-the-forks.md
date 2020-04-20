@@ -1,15 +1,12 @@
 ---
 title: 同根生何煎太急 比特王国三年内战最终将鹿死谁手
 tags: [fork, open-source, scaling, history,"分叉", "扩容","开源","历史","BSV"]
-img: 'https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdC2RKIBoO0ToS63eiblUdsWkAuCyYBnGR6wFYXpeYUHsRYpUPsibicBgAVg/0?wx_fmt=jpeg'
+img: 'https://imgkr.cn-bj.ufileos.com/c5c20bea-35e8-4976-8193-f903423bf383.webp'
 date: 2020-02-16 17:52:12
 ---
-![求关注](https://mmbiz.qpic.cn/mmbiz_png/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdCZD5PBlSM9icUZ1VkeOUUJbbEzA0QhsLAqbzXBb605hUjphwE1WV0oZQ/0?wx_fmt=png)
-
-# 同根生何煎太急
 
 ## 相煎何太急
-![三国杀 - 曹植](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdC2RKIBoO0ToS63eiblUdsWkAuCyYBnGR6wFYXpeYUHsRYpUPsibicBgAVg/0?wx_fmt=jpeg)
+![三国杀 - 曹植](https://imgkr.cn-bj.ufileos.com/c5c20bea-35e8-4976-8193-f903423bf383.webp)
 
 曹植，字子建，沛国谯县人，生于东武阳（今山东莘县，一说鄄城），是曹操与卞夫人所生第三子。因为特别有才而受宠，曹操好几次几乎要立曹植为太子。然而，曹植恃才放旷，文人气浓、常常任性而行而不注意修饰约束自己，做出了几件让曹操很是失望的事。最终曹操对曹植失去信心，立了曹丕为太子。曹操死后，他的哥哥曹丕当上了魏国的皇帝。
 
@@ -29,7 +26,7 @@ date: 2020-02-16 17:52:12
 
 但是，皇帝制度建立后，围绕皇位继承的残酷斗争即与之俱兴，宗法制度不断受到冲击。历史上不断出现骚乱、争议、政变、兵变、谋杀、篡位等。直到清朝雍正元年，雍正下诏宣布废除预立嫡长为太子的制度，改用 “密建皇储” 的办法。选立继位人不以嫡、庶、长、幼为条件，而以是否具有统治才能和是否符合统治者的根本利益为原则，从而扩大了对皇帝候选人的选择范围。这是对皇帝制度的重大改革，尽管此时大清王朝已经接近历史颠峰。
 
-![还珠格格 - 乾隆](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdC1SzkwEXNFYTp7icVu63HWA5JcHPico98k5ibHicr6WRib40CPjNSYW6wKRw/0?wx_fmt=jpeg "还珠格格 - 乾隆剧照")
+![还珠格格 - 乾隆](https://imgkr.cn-bj.ufileos.com/2346dd0b-60d6-4617-9794-ce1785421f02.webp)
 
 中国古代皇帝制度始于秦，终于清，前后历时两千多年，虽然几度改朝换代，但并无本质变化，根本原因还是受时代的生产能力不足约束，可使用的自然资源有限，而帝王制度可以控制和指挥着整个封建国家机器得以高速运转，虽然背后有着无数残酷的斗争。
 
@@ -45,7 +42,7 @@ date: 2020-02-16 17:52:12
 
 值得一提的是，尽管不少人会将开源软件 (Open Source) 运动和自由软件 (Free Software) 运动混为一谈，加密朋克社区里面对前者嗤之以鼻的也大有人在，因为 Open Source 的提出很大程度上是为了解决 Free 一词的多意性词，对商业软件更加友好。而在自由软件支持者看来，商业天生有向垄断发展的趋势，会有集中化的趋势，而这 [与社群的自由意志格格不入](https://fsfs-zh.readthedocs.io/open-source-misses-the-point/ "为什么说开源漏掉了自由软件的要点")。
 
-![自由软件](https://mmbiz.qpic.cn/mmbiz_png/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdCpoKbuu6JMrf0ClpUhOghNXu30ZkpWO2WAhynQEhmYdFbJVxSoZ0cFg/0?wx_fmt=png)
+![自由软件](https://imgkr.cn-bj.ufileos.com/1bf97351-9611-4096-b0cc-62869c598305.webp)
 
 点对点，货币系统，开源软件，加密技术…… 这些特性使得比特币一出来就自然而然地得到加密朋克们的青睐，中本聪匿名的状态更被一些无政府主义者视为偶像的化身。诚然，这些人在比特币成长初期给予了不少帮助，但也让比特币受去中心化的执念所困，久久不能扩容成长，差点酿成大错。
 
@@ -55,7 +52,7 @@ date: 2020-02-16 17:52:12
 
 海纳百川，有容乃大。当大家明白链上扩容的可能性后，就会明白，其实我们并不需要那么多的功能链，万链归一才是自然而然的结果。而不管从正统性来讲、可行性来讲、信用性来讲、政治中性立场来讲、专利保护来讲，目前只有 BSV 能成为那个最终的公链。
 
-![there-is-no-folk](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFniakziaKrN2ksMW4NIXqSAdCmicTDS2f4BU1kUvV5SX8vriczVo0u8LWOHbV3zmXG4DjLXmzwnTUWfdg/0?wx_fmt=jpeg)
+![there-is-no-folk](https://imgkr.cn-bj.ufileos.com/f177413c-087d-48b7-9026-f9bf3c394577.webp)
 
 这也是 BSV 经常被无端诋毁的原因之一，因为 Metanet 大业一成，其它的 Shitcoin 将无存活之地。皇子之间为了上位尚且不顾同胞之情而互相残杀，如今中本聪亲自归来掀币圈桌子，币圈那些欺诈犯们，又怎能咽下这口气呢？只可惜，他们
 螳臂挡车以为下架 BSV 就能阻止比特币的成长，最终不过贻笑大方罢了。
@@ -66,7 +63,7 @@ date: 2020-02-16 17:52:12
 
 ## 开源比特币
 
-![](https://mmbiz.qpic.cn/mmbiz_png/5EsQe61CaFm0srHXRRh96pUDSCyPzA8xF5wHj6n8BCqpPzEpHBVppXbRCEHd0k1Kf1iawhAgpsxdxsOdKzfoDtg/0?wx_fmt=png)
+![](https://imgkr.cn-bj.ufileos.com/d189d9fd-f08e-431d-8ed9-f3b17e574c45.webp)
 
 比特币是开源的，这很自然，也理所当然。只是这其中的理，并不是每个人都能想透。
 
@@ -90,7 +87,7 @@ date: 2020-02-16 17:52:12
 
 举个例子，MySQL 数据库软件是开源的，但各公司使用 MySQL 产生并保存的数据属于该公司所有，例如微信用 MySQL 保存用户产生的数据的利用权属于腾讯而不属于 MySQL 母公司 Oracle 所有。根据《[腾讯企业微信软件许可及服务协议](https://work.weixin.qq.com/nl/eula "腾讯企业微信软件许可及服务协议")》所述，“除非法律允许或腾讯书面许可，用户使用微信软件过程中不得 “对本软件（微信软件）或者本软件运行过程中释放到任何终端内存中的数据、软件运行过程中客户端与服务器端的交互数据，以及本软件运行所必需的系统数据，进行复制、修改、增加、删除、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非腾讯经授权的第三方工具 / 服务接入本软件和相关系统。” 这也为后来 [华为与腾讯的数据之争](http://china.cnr.cn/xwwgf/20170806/t20170806_523887198.shtml "华为、腾讯因微信数据起冲突 专家：用户数据属于用户本身") 埋下了伏笔，也是近来 [微信限制字节跳动 “飞书” 链接，移动办公成巨头新战场](https://www.caixin.com/2020-03-02/101522814.html?originReferrer=weibo_caixinwang "微信限制字节跳动 “飞书” 链接 移动办公成巨头新战场") 的起因。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/5EsQe61CaFm0srHXRRh96pUDSCyPzA8xXyqwfiaAHwEtZUmGr2L1E5shiaqfMscOX9RbUaEK48RHm6ibM5vy17Hrg/0?wx_fmt=png)
+![](https://imgkr.cn-bj.ufileos.com/f2dc7514-37c8-492c-b680-58c736bab829.webp)
 
 如果说中本聪要用法律武器来维护自己的合法权利让你觉得可笑的话，很遗憾，这说明你已经受无政府主义的思潮毒害不浅了，毕竟这个圈子里太多的人叫嚣着 [宣传着 “私钥就是一切” 的谬论](https://craigwright.net/blog/law-regulation/good-title-is-not-a-key/ "CSW: Good Title Is Not a Key")。事实上，整个人类社会都是建立在法制基础上才有共同规则可言。自然法是在文明中生长出来的对于各类情况的统一认识，并且本身也具备可进化性和可适应性，试图依靠纯粹的技术来解决所有问题的想法其实非常愚蠢，毕竟，在一个弱肉强食的无秩序社会里面，当你被枪指着脑袋的时候，什么技术都会变得不好使。而当你连自己的私有财产都无法保护的情况下，这样的社会真的会有前途么？
 
@@ -98,7 +95,7 @@ date: 2020-02-16 17:52:12
 
 ## 数据归属权
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFm0srHXRRh96pUDSCyPzA8x2MUUoAptlNayNFERf3rAG6T4sfHQM4zcibfBrb7FIWRX225CJOiaUSAg/0?wx_fmt=jpeg)
+![](https://imgkr.cn-bj.ufileos.com/985c185d-a456-409e-b1d2-77f3275ba786.webp)
 
 上一节里提到的华为与腾讯因微信数据而起的数据之争，其实引申出一个更深层的问题：用户通过应用所产生的数据，究竟属于谁？刘晔律师写的这篇 [简论医疗大数据的法律规制](https://mp.weixin.qq.com/s/tL7n2T9EO_skS7C6x7cTuw "简论医疗大数据的法律规制") 文章，或许能给大家一些启发：无论是比特币的交易记录，还是用户的聊天信息，它们都类似于医院的病历。那么，病历的所有权是应该属于医院、医生还是病人还是包括 CT 制造商呢？
 

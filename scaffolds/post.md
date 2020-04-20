@@ -4,6 +4,7 @@ date: {{ date }}
 tags:
   - bitcoin
 img: ''
+summary: ''
 ---
 
 ![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
