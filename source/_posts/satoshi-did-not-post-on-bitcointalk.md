@@ -1,5 +1,5 @@
 ---
-title: 真亦假时假亦真：中本聪居然没有在 Bitcointalk 论坛发过言？！
+title: 真亦假时假亦真：中本聪从未在 Bitcointalk 论坛发过言？！
 tags:
   - bsv
   - satoshi

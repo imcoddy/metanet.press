@@ -1,5 +1,5 @@
 ---
-title: 君若中莫负妾身 如何从 BSV 上赚钱？
+title: 君若中莫负妾身：如何从 BSV 上赚大钱？
 tags:
   - bsv
   - invest
