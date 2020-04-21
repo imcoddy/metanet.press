@@ -31,12 +31,12 @@ before_install:
 
 # 安装环境
 install:
-    - npm install -g hexo-cli
+    - npm install -g hexo-cli gulp-cli
     - npm install
 
 # 生成静态文件
 script:
-    - hexo generate
+    - gulp default
 
 # 发布静态文件
 after_script:
