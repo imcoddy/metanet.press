@@ -44,7 +44,6 @@ after_script:
     - (cd rebirth ; git checkout gh-pages ; git pull origin gh-pages)
     - rsync -av rebirth/images/ public/images/
     - rm -rf rebirth/images rebirth/rebirth
-    - mv rebirth public/
     - cd public
     - git init
     - git config user.name "imcoddy"
