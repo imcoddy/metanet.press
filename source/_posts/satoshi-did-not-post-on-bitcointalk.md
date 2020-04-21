@@ -1,8 +1,9 @@
 ---
-title: 真亦假时假亦真：中本聪从未在 Bitcointalk 论坛发过言？！
+title: 真亦假时假亦真：中本聪从未在比特币论坛发过言？！
 tags:
   - bsv
   - satoshi
+  - history
   - bitcointalk
   - forum
 img: 'https://imgkr.cn-bj.ufileos.com/3ad2bbf8-189b-4c79-b590-f6ab705b6cfd.jpg'
