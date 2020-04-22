@@ -36,16 +36,22 @@ install:
 
 # 生成静态文件
 script:
-    - hexo clean && gulp
+    - hexo clean && hexo generate
 
 # 发布静态文件
 after_script:
     # - cp -r _book rebirth
     - (cd rebirth ; git checkout gh-pages ; git pull origin gh-pages)
-    - rsync -av rebirth/images/ public/images/
-    - rm -rf rebirth/images rebirth/rebirth
+
+    - mv public blog
+    - mkdir public
+    - mv rebirth public
+    - mv blog public
+
+    # - rsync -av rebirth/images/ public/images/
+    # - rm -rf rebirth/images rebirth/rebirth
+    # - mv rebirth public/
     - cd public
-    - ls -al
     - git init
     - git config user.name "imcoddy"
     - git config user.email "imcoddy@gmail.com"
