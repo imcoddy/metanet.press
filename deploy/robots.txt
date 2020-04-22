@@ -1,4 +1,4 @@
-Sitemap: https://metanet.press/sitemap.xml
+Sitemap: https://metanet.press/blog/sitemap.xml
 Sitemap: https://metanet.press/rebirth/sitemap.xml
 User-agent: *
 Disallow:

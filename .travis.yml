@@ -47,6 +47,7 @@ after_script:
     - mkdir public
     - mv rebirth public
     - mv blog public
+    - cp deploy/* public/
 
     # - rsync -av rebirth/images/ public/images/
     # - rm -rf rebirth/images rebirth/rebirth
