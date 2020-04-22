@@ -15,5 +15,3 @@ summary: ''
 ![](https://imgkr.cn-bj.ufileos.com/9c7d15e2-403a-4c2b-b01d-05c4cb14ad42.png)
 
 <sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
-
-<script async src='https://www.moneybutton.com/moneybutton.js'></script> <div class='money-button' data-to='metanetpress@moneybutton.com' data-amount='0.005' data-currency='BSV' data-editable="false"></div>
