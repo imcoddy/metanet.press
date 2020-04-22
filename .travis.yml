@@ -31,12 +31,12 @@ before_install:
 
 # 安装环境
 install:
-    - npm install -g hexo-cli gulp-cli
+    - npm install -g hexo-cli gulp
     - npm install
 
 # 生成静态文件
 script:
-    - hexo clean && hexo generate
+    - hexo clean && gulp
 
 # 发布静态文件
 after_script:
@@ -45,6 +45,7 @@ after_script:
     - rsync -av rebirth/images/ public/images/
     - rm -rf rebirth/images rebirth/rebirth
     - cd public
+    - ls -al
     - git init
     - git config user.name "imcoddy"
     - git config user.email "imcoddy@gmail.com"
