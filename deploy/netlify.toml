@@ -23,11 +23,11 @@
   compress = true
 
 [[plugins]]
-package = "netlify-plugin-checklinks"
+package = "@netlify/plugin-sitemap"
 
-[[plugins]]
-package = "netlify-plugin-subfont"
-
+  [plugins.inputs]
+  buildDir = "./"
+  prettyURLs = true
 
 [[redirects]]
   from = "/"
