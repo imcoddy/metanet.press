@@ -36,7 +36,7 @@ install:
 
 # 生成静态文件
 script:
-    - hexo clean && hexo generate
+    - hexo clean && gulp default
 
 # 发布静态文件
 after_script:
