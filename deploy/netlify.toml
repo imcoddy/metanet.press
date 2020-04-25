@@ -22,6 +22,9 @@
 [build.processing.images]
   compress = true
 
+[build]
+  publish = "./"
+
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
