@@ -113,3 +113,6 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+breadcrumb:
+  display: true
