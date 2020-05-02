@@ -52,7 +52,8 @@ after_script:
     # - rm -rf rebirth/images rebirth/rebirth
     # - mv rebirth public/
     - cd public
-    - ln blog/images ./images
+    - cp -R blog/images ./images
+    - ln sitemap.xml baidusitemap.xml
 
     - git init
     - git config user.name "imcoddy"
