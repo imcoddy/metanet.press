@@ -4,3 +4,6 @@
 [submodule "rebirth"]
 	path = rebirth
 	url = https://github.com/imcoddy/rebirth-of-bitcoin.git
+[submodule "themes/butterfly"]
+	path = themes/butterfly
+	url = git@github.com:imcoddy/hexo-theme-butterfly.git

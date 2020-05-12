@@ -5,6 +5,7 @@ tags:
   - invest
   - metanet
 img: 'https://imgkr.cn-bj.ufileos.com/f8d1338b-5158-4589-a2ed-b638e7e9170e.jpg'
+top_img: 'https://imgkr.cn-bj.ufileos.com/f8d1338b-5158-4589-a2ed-b638e7e9170e.jpg'
 date: 2020-03-16 18:54:26
 ---
 
