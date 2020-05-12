@@ -118,3 +118,10 @@ deploy:
 
 breadcrumb:
   display: true
+
+watermark:
+  enable: true
+  textEnable: true
+  gravity: southeast
+  text: 邱少闲聊MetaNet
+
