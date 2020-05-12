@@ -15,6 +15,8 @@ date: 2020-04-01 19:05:02
 
 这是《红楼梦》中贾宝玉游历太虚幻境时见到的对联。它其实是警醒宝玉：世人认为的 “真” 并不一定是真正的真，认为的 “假” 并不一定是真正的假，不要迷在常人之中，忘了自己真正的家，“反认他乡是故乡”。若把假当真，则真的便成了假的了；把没有的视为有的，有的也就成了没有的了。
 
+<!--more-->
+
 宝玉原是神瑛侍者，下凡造历幻缘，但是一入尘世，也就迷在俗中，迷在俗中就难免造业，甚至还有可能业大下地狱。上天不想让他毁在人中，故而让其游历幻境，启发其悟性，提醒其不要忘记人生根本。
 
 红楼梦能名列四大名著之一而非普通流俗小说，它的高级就在于，曹雪芹玩起文字游戏来，早已出神入化，炉火垂青，里面字字是游戏，处处有隐喻。这副对联阐释了 “假”“真”“有”“无” 的哲理，是曹公唯恐世人误读了红楼，不解其中之味，用一句 “假作真时真亦假” 来警示贾宝玉，警示红楼梦中人是再贴切不过了。
@@ -26,7 +28,7 @@ date: 2020-04-01 19:05:02
 
 ## 比特币论坛
 
-中本聪的身份一直是币圈乐此不疲的话题，在很长一段时间里，中本聪只通过邮件和论坛与他人交流。后人可以从类似[Satoshi Nakamoto Institute](https://satoshi.nakamotoinstitute.org/ "Satoshi Nakamoto Institute")这样的网站，去了解当年中本聪说过什么。
+中本聪的身份一直是币圈乐此不疲的话题，在很长一段时间里，中本聪只通过邮件和论坛与他人交流。后人可以从类似 [Satoshi Nakamoto Institute](https://satoshi.nakamotoinstitute.org/ "Satoshi Nakamoto Institute") 这样的网站，去了解当年中本聪说过什么。
 
 说到比特币论坛，或许大部分人会先想到的是 bitcointalk.org。这个论坛在比特币历史上有着非同一般的意义，因为早期比特币只在极小的极客圈子里面流行，对于 2011 年后才开始接触比特币的人，这个论坛是当时了解比特币早期发展为数不多的资源之一，甚至一定程度上，在 Bitcointalk 上的 ID 的注册时间，决定了这个比特币粉的骨灰级程度。
 
@@ -46,7 +48,7 @@ date: 2020-04-01 19:05:02
 ![](https://imgkr.cn-bj.ufileos.com/108b978f-1615-4b39-953b-cfe9e7570d5b.png)
 
 
-而这距离中本聪  2011-04-23 最后一次与他人联系，已经是两个月之后。在那封发给 Mike Hearn 的[邮件](https://plan99.net/~mike/satoshi-emails/thread5.html "Satoshi's last email: Holding coins in an unspendable state for a rolling time window")中，中本聪表示：“我已经转向做其他事情。比特币就放心交给 Gavin 和大家了”。 
+而这距离中本聪  2011-04-23 最后一次与他人联系，已经是两个月之后。在那封发给 Mike Hearn 的[邮件](https://plan99.net/~mike/satoshi-emails/thread5.html "Satoshi's last email: Holding coins in an unspendable state for a rolling time window") 中，中本聪表示：“我已经转向做其他事情。比特币就放心交给 Gavin 和大家了”。
 
 因此，中本聪真的没有在 Bitcointalk 上发过帖！
 
@@ -80,7 +82,7 @@ date: 2020-04-01 19:05:02
 
 其实这的确没什么大问题，除了一点：为什么会建立 bitcointalk.org 而不用原来的 forum.bitcoin.org 呢？
 
-讽刺的是，早期的 Mike Hearn 在 Bitcointalk 上的[这个帖子]()给出了答案：
+讽刺的是，早期的 Mike Hearn 在 Bitcointalk 上的『这个帖子』() 给出了答案：
 
 > 为什么 Bitcointalk 会从 forum.bitcoin.org 分离出来？因为当时人们公开地在论坛上交易毒品，攻击服务器，或者做另外一些见不得阳光的事。其实当时 Bitcoin-Qt 的开发者没有一个觉得这是 OK 的，但论坛的管理员 theymos 和 sirius 根本就不对这种情况加以限制。最后的结果是论坛上关于开发的讨论都转移到邮件列表，而这个论坛的入口域名 forum.bitcoin.org 被取消，而以非官方论坛 bitcointalk.org 的名义另外运作。
 
@@ -120,4 +122,4 @@ date: 2020-04-01 19:05:02
 
 ![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
 
-<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡：)</sup></sub>
