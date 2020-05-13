@@ -9,8 +9,7 @@ top_img: 'https://imgkr.cn-bj.ufileos.com/f8d1338b-5158-4589-a2ed-b638e7e9170e.j
 date: 2020-03-16 18:54:26
 ---
 
-![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
-本文首发于微信公众号：邱少闲聊 Metanet，欢迎搜索关注第一时间获取更新。
+![](https://imgkr.cn-bj.ufileos.com/f8d1338b-5158-4589-a2ed-b638e7e9170e.jpg)
 
 时常有可爱的读者和我说，邱少啊，你这文章整天乾坤啊量子啊什么的看不明白啊，你直接告诉我现在 BSV 是涨还是跌、要不要抄底吧！
 

@@ -138,7 +138,7 @@ theme_config:
     navbar:
       height: 64px
       width: auto # auto, max
-      effect: [shadow, blur] # [shadow, floatable, blur]
+      effect: [shadow, floatable, blur] # [shadow, floatable, blur]
     sidebar:
       effect: [shadow] # [shadow, floatable, blur]
     body:
@@ -172,17 +172,17 @@ theme_config:
       button: 0px
     fontsize:
       root: 16px
-      h1: 1.625rem
-      h2: 1.375rem
-      h3: 1.25rem
-      h4: 1.125rem
-      h5: 1rem
+      h1: 1.925rem
+      h2: 1.625rem
+      h3: 1.375rem
+      h4: 1.25rem
+      h5: 1.125rem
       h6: 1rem
       body: 1rem
       list: .9375rem
       meta: .875rem
       code: .8125rem
-      footnote: .75rem
+      footnote: .85rem
     fontfamily:
       logofont:
         fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
@@ -296,7 +296,7 @@ theme_config:
     author:
       avatar: '/images/avatar.png'
       name: 邱少贤
-      url: https://metanet.press
+      url: https://metanet.press/about/
     # 文章创建日期
     date:
       icon: fas fa-calendar-alt
@@ -374,12 +374,12 @@ theme_config:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+      avatar: /images/avatar.png
       shape: rectangle # circle, rectangle
       url: /about/
-      title:
-      subtitle:
-      jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
+      title: 邱少闲聊
+      subtitle: MetaNet
+      jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social: true
     # ---------------------------------------
     # toc widget (valid only in articles)
@@ -439,11 +439,11 @@ theme_config:
     donate:
       class: qrcode
       display: [desktop, mobile] # [desktop, mobile]
-      height: 64px  # Automatic height if not set
+      height: 128px  # Automatic height if not set
       fancybox: true
       images:
-        - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/wiki_volantis.png
-        - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/wiki_volantis.png
+        - /images/reward/wechat.png
+        - /images/reward/alipay.png
     # ---------------------------------------
     # references widget
     references:
@@ -466,17 +466,15 @@ theme_config:
 
   footer:
     # layout of footer: [aplayer, social, license, info, copyright]
-    layout: [aplayer, social, license, info, copyright]
+    layout: [social, license, copyright]
     social:
-      - icon: fas fa-rss
-        url: atom.xml
-      - icon: fas fa-envelope
-        url: mailto:me@xaoxuu.com
+      - icon: fab fa-twitter
+        url: https://twitter.com/imcoddy
       - icon: fab fa-github
-        url: https://github.com/xaoxuu
-      - icon: fas fa-headphones-alt
-        url: https://music.163.com/#/user/home?id=63035382
-    copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
+        url: https://github.com/imcoddy
+      - icon: fab fa-weibo
+        url: https://weibo.com/imcoddy
+    copyright: '[Copyright © 2019-2020 邱少闲聊MetaNet版权所有](https://metanet.press)'
     # You can add your own property here. (Support markdown, for example: br: '<br>')
     br: '<br>'
 
@@ -561,7 +559,7 @@ theme_config:
     # APlayer is only available in mainland China.
     # APlayer config: https://github.com/metowolf/MetingJS
     aplayer:
-      enable: true
+      enable: false
       js:
         - https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js
         - https://cdn.jsdelivr.net/npm/meting@2.0/dist/Meting.min.js
@@ -675,14 +673,3 @@ theme_config:
       queryKey:
     baidu:
       apiId:
-
-
-
-  ############################### Theme Information ###############################
-  info:
-    name: 邱少闲聊MetaNet # This is theme's name.
-    version: '2.6.6' # This is theme's version.
-    docs: https://metanet.press # This is theme's URL.
-    cdn:
-      js: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2.6.5/js/app.js
-      css:

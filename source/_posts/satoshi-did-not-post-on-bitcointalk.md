@@ -9,6 +9,8 @@ tags:
 img: 'https://imgkr.cn-bj.ufileos.com/3ad2bbf8-189b-4c79-b590-f6ab705b6cfd.jpg'
 date: 2020-04-01 19:05:02
 ---
+![](https://imgkr.cn-bj.ufileos.com/3ad2bbf8-189b-4c79-b590-f6ab705b6cfd.jpg)
+
 ## 宝玉游幻境
 
 > 假作真时真亦假，无为有处有还无。

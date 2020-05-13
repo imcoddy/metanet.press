@@ -8,12 +8,11 @@ tags:
   - mining
   - 减半
 img: 'https://osch.oss-cn-shanghai.aliyuncs.com/blogPicture/1538546719829.png'
+description: 如今，接近比特币总量的 90% 已经被挖采出来并在市场上流通，这次减半相对之前两次而言，对市场上的流通量的影响更加微不足道，但对于现在已经薄利微盈的矿工来说，这无疑是一场生死大考。挖还是不挖，这是个问题。
 date: 2020-03-07 10:45:57
 ---
 
-![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
-
-本文首发于微信公众号：邱少闲聊 Metanet，欢迎搜索关注第一时间获取更新。
+![](https://osch.oss-cn-shanghai.aliyuncs.com/blogPicture/1538546719829.png)
 
 ## 一尺取万世
 
