@@ -101,27 +101,28 @@ cover:
     archive: true
     others: false # can be written in front-matter 'cover: true'
   logo: # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
-  title: Volantis
-  subtitle: 'A Wonderful Theme for Hexo'
+  title: 邱少闲聊MetaNet
+  subtitle: 'BitCoin 上拓天地 MetaNet 里定乾坤'
   search: # search bar placeholder
   features:
-    - name: 文档
-      icon: fas fa-book
-      url: https://volantis.js.org/getting-started/
-    - name: 博文
-      icon: fas fa-rss
-      url: https://volantis.js.org/archives/
-    - name: 示例
-      icon: fas fa-play-circle
-      url: https://volantis.js.org/examples/
-    - name: 源码
-      icon: fas fa-file-code
-      url: https://github.com/xaoxuu/hexo-theme-volantis/
-      rel: external nofollow noopener noreferrer
-      target: _blank
-    - name: 鸣谢
-      icon: fas fa-handshake
-      url: https://volantis.js.org/contributors/
+    - name: 首页
+      url: /
+      icon: fas fa-home
+    - name: 标签
+      url: /tags
+      icon: fas fa-tags
+    # Categories:
+    #   url: /categories
+    #   icon: fas fa-bookmark
+    # Archives:
+    #   url: /archives
+    #   icon: fas fa-archive
+    - name: 关于
+      url: /about
+      icon: fas fa-user-circle
+    - name: 比特币重生计划
+      url: ../rebirth
+      icon: fab fa-btc
 
 
 # Navigation Bar
@@ -129,31 +130,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img:
     icon:
-    title:
-  menu:
-    # The following can be written in `blog/source/_data/menu.yml`
-    - name: 博客
-      icon: fas fa-rss
-      url: /
-    - name: 分类
-      icon: fas fa-folder-open
-      url: categories/
-    - name: 标签
-      icon: fas fa-tags
-      url: tags/
-    - name: 归档
-      icon: fas fa-archive
-      url: archives/
-    - name: 友链
-      icon: fas fa-link
-      url: friends/
-    - name: 关于
-      icon: fas fa-info-circle
-      url: about/
-  search: Search...   # Search bar placeholder
-
-
-
+    title: 邱少闲聊MetaNet
 layout:
   # The following can be written in `blog/source/_data/layout.yml`
   # 文章列表（主页、自定义的列表）布局
@@ -485,8 +462,8 @@ comments:
   # Valine
   # https://valine.js.org/
   valine:
-    appId: dogUA2FSKGTo029M1SEwGROT-MdYXbMMI # your appId
-    appKey: u0NdtQ8nvHoMdJPSYqm1LRxE # your appKey
+    appId: cOEhusjIvF2miHty5CGF9tXD-MdYXbMMI
+    appKey: Yzbo1Aw1oSMT6cjGi6nLe9k0
     js: https://cdn.jsdelivr.net/npm/valine@1.4/dist/Valine.min.js
     path: # All pages use the same path (share the same comments data)
     meta: nick,mail,link # valine comment header info
@@ -575,9 +552,9 @@ search:
 
 ############################### Theme Information ###############################
 info:
-  name: Volantis # This is theme's name.
+  name: 邱少闲聊MetaNet # This is theme's name.
   version: '2.6.6' # This is theme's version.
-  docs: https://volantis.js.org/ # This is theme's URL.
+  docs: https://metanet.press # This is theme's URL.
   cdn:
     js: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2.6.5/js/app.js
     css:
