@@ -5,13 +5,15 @@ img: 'https://pic4.zhimg.com/v2-8f50257d495c063f9469fb883a79f194_1200x500.jpg'
 date: 2020-02-19 20:19:09
 ---
 
-## 再读桃花源
-
 ![](https://pic4.zhimg.com/v2-8f50257d495c063f9469fb883a79f194_1200x500.jpg)
+
+## 再读桃花源
 
 > 土地平旷，屋舍俨然，有良田，美池，桑，竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人；黄发，垂髫，并怡然自乐。 -- 桃花源记
 
 《桃花源记》是东晋文学家陶渊明的代表作之一，是《桃花源诗》的序言，选自《陶渊明集》。此文借武陵渔人行踪这一线索，把现实和理想境界联系起来，通过对桃花源的安宁和乐、自由平等生活的描绘，表现了作者追求美好生活的理想和对当时的现实生活不满。
+
+<!--more-->
 
 桃花源究在何地抑或存在与否，古今异说纷纭。《老子・不徙章》中提到的小国寡民，可能是桃花源记的原型之一。说到老子的《道德经》，其中的 “治大国若烹小鲜” 的思想其实在比特币中亦是展现得淋漓尽致，不过邱少我今天先按此不表，本文先着重阐述这世外桃源的小世界。
 
@@ -23,7 +25,7 @@ date: 2020-02-19 20:19:09
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFlIOpag2oiclsaplrAXjozxRNOC621sszGDpmeW4ebr1u1vsTgib6NCicBnSEYFicYok6QKHhsLoRjTcQ/0?wx_fmt=jpeg)
 
-小世界现象，就是指这个世界其实很小，小到你想和世界上任何另外一个陌生人建立关系，只需要 6 个左右的中间人。这个现象也叫[六度分隔](https://zh.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94%E7%90%86%E8%AE%BA "六度分隔理论")现象。
+小世界现象，就是指这个世界其实很小，小到你想和世界上任何另外一个陌生人建立关系，只需要 6 个左右的中间人。这个现象也叫[六度分隔](https://zh.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94%E7%90%86%E8%AE%BA "六度分隔理论") 现象。
 
 最早观察到小世界现象的是社会人际网络。将每个人作为节点，将人与人之间的人际关系（朋友，合作，相识等）作为链接，就创建起一个社会人际网络。
 
@@ -45,23 +47,23 @@ date: 2020-02-19 20:19:09
 * 有很小的平均路径长度：在节点数 N 很大时，平均路径长度近似于 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc0aa0559de03194bf9c6403306f8fb8d418694b)
 * 有很高的集聚系数：集聚系数大约和规则网络在同一数量级，远大于随机网络的集聚系数
 
-如果上面的内容还让你觉得小世界网络难以理解的话，想想近期的肺炎疫情，你或许就能有更真切的体会了：传染病在人群中的流行、病毒在计算机网络上的蔓延、谣言在人际社会中的扩散等，都可视为流行病在小世界网络上的传播问题[](http://www.cbdio.com/BigData/2016-10/17/content_5337620.htm "小白学数据：小世界网络中的大世界")。无论你身在何方，地球另一面所发生的事情与你并不遥远。
+如果上面的内容还让你觉得小世界网络难以理解的话，想想近期的肺炎疫情，你或许就能有更真切的体会了：传染病在人群中的流行、病毒在计算机网络上的蔓延、谣言在人际社会中的扩散等，都可视为流行病在小世界网络上的传播问题 [](http://www.cbdio.com/BigData/2016-10/17/content_5337620.htm "小白学数据：小世界网络中的大世界")。无论你身在何方，地球另一面所发生的事情与你并不遥远。
 
 ## 比特币网络
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5EsQe61CaFlIOpag2oiclsaplrAXjozxRxRIX70UtqpRKBbTICLLQnplqU1yib28g0smf20kuLSfibL9bZAcH4Jcw/0?wx_fmt=jpeg)
 
-[比特币其实也是一个小世界网络](https://metanet.press/chapter-mining/small-world-network.html "比特币重生计划：小世界网络")，这是波茨坦大学信息系统主席 Annika Baumann 于 2014 年发表的论文《[Exploring the Bitcoin Network](https://www.researchgate.net/publication/262562539_Exploring_the_Bitcoin_Network "Exploring the Bitcoin Network")》中得到的结论:
+[比特币其实也是一个小世界网络](https://metanet.press/chapter-mining/small-world-network.html "比特币重生计划：小世界网络")，这是波茨坦大学信息系统主席 Annika Baumann 于 2014 年发表的论文《[Exploring the Bitcoin Network](https://www.researchgate.net/publication/262562539_Exploring_the_Bitcoin_Network "Exploring the Bitcoin Network")》中得到的结论：
 在这种网络中大部分的节点彼此并不相连，但绝大部分节点之间经过少数几步就可到达。
 
 这样的网络的意义在于，参与的节点大部分会紧密连接，使得信息广播在整个网络中的得以高效传递。同时这些节点组成的网络具有良好的扩展性，新加入的节点可以根据自身情况迅速融入其中，退出的节点也不会影响到整个网络系统。
 
-而在实际情况中，节点会倾向于与连接性良好的其它节点保持紧密关联，以便能尽快地接收交易信息以及将自己打包的区块传递出去。这使得节点在加入比特币网络后，会尽量与更多节点直接关联，从而让整个比特币网络慢慢变成了一张近完全图（Near Completed Graph)。下面这个[小世界网络与闪电网络的 120 个节点模拟演示
-](https://www.bilibili.com/video/av69007728 "小世界网络与闪电网络的 120 个节点模拟演示")的视频，生动地显示了新节点不断加入比特币网络后整体变得更加紧密的过程。
+而在实际情况中，节点会倾向于与连接性良好的其它节点保持紧密关联，以便能尽快地接收交易信息以及将自己打包的区块传递出去。这使得节点在加入比特币网络后，会尽量与更多节点直接关联，从而让整个比特币网络慢慢变成了一张近完全图（Near Completed Graph)。下面这个『小世界网络与闪电网络的 120 个节点模拟演示
+](https://www.bilibili.com/video/av69007728 "小世界网络与闪电网络的 120 个节点模拟演示") 的视频，生动地显示了新节点不断加入比特币网络后整体变得更加紧密的过程。
 
 https://www.bilibili.com/video/av69007728
 
-需要明白的是，比特币节点会组成小世界网络即是果，也是因。在经济激励之下，矿工有动力去维持和其它节点的连接紧密，以便可以更迅速地接收/广播相应的交易和区块信息。这一点也是 BSV 和 BTC 的支持者在理念上截然不同的地方之一，BSV 相信矿工们在自由竞争之下会充分竞争从而整体实力达到接近社会平均水平，而 BTC 则强调所谓的“人人运行节点的权力”而束缚了扩容的潜能。
+需要明白的是，比特币节点会组成小世界网络即是果，也是因。在经济激励之下，矿工有动力去维持和其它节点的连接紧密，以便可以更迅速地接收 / 广播相应的交易和区块信息。这一点也是 BSV 和 BTC 的支持者在理念上截然不同的地方之一，BSV 相信矿工们在自由竞争之下会充分竞争从而整体实力达到接近社会平均水平，而 BTC 则强调所谓的“人人运行节点的权力”而束缚了扩容的潜能。
 
 事实上，随着矿工的竞争充分以及交易的类型增多，比特币矿工组成的小世界网络会进化形成一个[超小世界的 Mandala 网络](https://www.nature.com/articles/srep09082 "Mandala Networks: ultra-small-world and highly sparse graphs")，其构成了 Metanet 的核心根基。不过由于时间有限，这部分只能改天再和大家分享了。
 
@@ -69,4 +71,4 @@ https://www.bilibili.com/video/av69007728
 
 ![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
 
-<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡：)</sup></sub>

@@ -1,5 +1,5 @@
 ---
-title: 邱少闲聊Metanet，邱少贤撩Metanet
+title: 邱少闲聊 Metanet，邱少贤撩 Metanet
 tags: [metanet,bitcoin,bsv]
 img: 'https://imgkr.cn-bj.ufileos.com/54335a63-5719-464b-abb3-738ced01afb8.jpeg'
 date: 2020-02-11 21:12:47
@@ -7,6 +7,8 @@ date: 2020-02-11 21:12:47
 ![](https://imgkr.cn-bj.ufileos.com/54335a63-5719-464b-abb3-738ced01afb8.jpeg)
 
 转眼之间，比特币重生计划的创世纪成功升级已经过去一个星期了。根据《圣经》中对创世纪的描述，第七天是一个特别的日子：
+
+<!--more-->
 
 > 天地万物都造齐了。
 > 到第七日，神造物的工已经完毕，就在第七日歇了他一切的工，安息了。
@@ -28,5 +30,5 @@ date: 2020-02-11 21:12:47
 
 ![](/images/metanet.press.png)
 
-<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡：)</sup></sub>
 

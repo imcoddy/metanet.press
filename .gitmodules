@@ -7,3 +7,6 @@
 [submodule "themes/butterfly"]
 	path = themes/butterfly
 	url = git@github.com:imcoddy/hexo-theme-butterfly.git
+[submodule "themes/volantis"]
+	path = themes/volantis
+	url = git@github.com:imcoddy/hexo-theme-volantis.git

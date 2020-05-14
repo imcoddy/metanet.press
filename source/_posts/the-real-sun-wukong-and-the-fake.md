@@ -1,5 +1,5 @@
 ---
-title: ' 六耳猕猴孙悟空：BSV与BTC哪个才是真的比特币'
+title: ' 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币'
 date: 2020-02-15 21:22:42
 tags: ['fork','scaling','history','genesis','debate','分叉','扩容','历史','创世纪']
 img: 'https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg'
@@ -14,6 +14,8 @@ img: 'https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg'
 如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，不求长命百岁，只愿万代传名。
 
 两只猴子模样相同，武器一般，他们为争正名斗得天昏地暗，上天入地，各路神仙辨不出真假，诸山菩萨分不清是非，照妖镜没反应，紧箍咒也失灵，唯有谛听指路奔灵山求佛祖，方才窥破真相，水落石出，六耳死，悟空赢，此回终。
+
+<!--more-->
 
 ## 漫漫修心路
 
@@ -51,9 +53,9 @@ CSW 博士在 [最新的文章](https://mp.weixin.qq.com/s/OdKEaTF2YgJb36un_6TBM
 
 中本聪 2011 年后便消声匿迹了，因看到自己的发明并人们用于构建暗网进行非法交易毒品而一度心灰意冷，差一点让比特币完全落入无政府主义支持者的手里。币圈里太多的人似乎陷入了竭斯底里的幻觉之中：
 
-* 他们喊着 Decentralize (去中心化)，却希望自己成为权利的中心；
-* 他们宣称 Code Is Law (代码即法律)，却忘却了冷冰冰的代码无法正确处理复杂的社会纠纷；
-* 他们希望 Everyone Can Run a Node (人人可运行节点)，却不知那些业余的节点事实上拖累了整个系统的效率
+* 他们喊着 Decentralize （去中心化），却希望自己成为权利的中心；
+* 他们宣称 Code Is Law （代码即法律），却忘却了冷冰冰的代码无法正确处理复杂的社会纠纷；
+* 他们希望 Everyone Can Run a Node （人人可运行节点），却不知那些业余的节点事实上拖累了整个系统的效率
 * ……
 
 而这一些广为流传道貌岸然的口号，事实上从来都不是比特币白皮书所描述的理念。
@@ -66,4 +68,4 @@ CSW 博士在 [最新的文章](https://mp.weixin.qq.com/s/OdKEaTF2YgJb36un_6TBM
 
 ![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
 
-<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡:)</sup></sub>
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡：)</sup></sub>
