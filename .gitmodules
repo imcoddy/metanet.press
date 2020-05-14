@@ -6,7 +6,7 @@
 	url = https://github.com/imcoddy/rebirth-of-bitcoin.git
 [submodule "themes/butterfly"]
 	path = themes/butterfly
-	url = git@github.com:imcoddy/hexo-theme-butterfly.git
+	url = https://github.com/imcoddy/hexo-theme-butterfly.git
 [submodule "themes/volantis"]
 	path = themes/volantis
-	url = git@github.com:imcoddy/hexo-theme-volantis.git
+	url = https://github.com/imcoddy/hexo-theme-volantis.git
