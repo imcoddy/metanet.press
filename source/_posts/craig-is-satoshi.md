@@ -1,5 +1,5 @@
 ---
-title: '比特图腾中本聪'
+title: '比特图腾中本聪：被人忽视的 CSW 魅力何在？'
 tags:
   - bitcoin
   - satoshi
