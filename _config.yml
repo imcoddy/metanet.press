@@ -133,7 +133,7 @@ theme_config:
     scrollbar:
       size: 4px
       border: 2px
-      color: '#2196f3'
+      color: '#e8b21f'
       hover: '#ff5722'
     navbar:
       height: 64px
@@ -159,9 +159,9 @@ theme_config:
         enable: true # enable for user
         color: '' # color for default checkbox
     gap:
-      h2: 8px # Spacing above H2 (only px unit)
-      h3: 8px # Spacing above H3 (only px unit)
-      h4: 8px # Spacing above H4 (only px unit)
+      h2: 4px # Spacing above H2 (only px unit)
+      h3: 4px # Spacing above H3 (only px unit)
+      h4: 4px # Spacing above H4 (only px unit)
       paragraph: 1.2rem # Paragraph spacing between paragraphs
       row: .5rem # Paragraph spacing between other elements
       line_height: 1.75 # normal, 1.5, 1.75, 2 ...
@@ -185,11 +185,11 @@ theme_config:
       footnote: .85rem
     fontfamily:
       logofont:
-        fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
+        fontfamily: '"Varela Round", "STKaiti", "Microsoft YaHei", Helvetica, Arial'
         name: 'Varela Round'
         url: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
-        weight: normal
-        style: normal
+        weight: 700
+        style: bold
       bodyfont:
         fontfamily: 'UbuntuMono, "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
         name: 'UbuntuMono'
@@ -228,12 +228,12 @@ theme_config:
       home: true
       archive: true
       others: false # can be written in front-matter 'cover: true'
-    logo: # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
-    title: 邱少闲聊MetaNet
-    subtitle: 'BitCoin 上拓天地 MetaNet 里定乾坤'
+    logo: https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
+    title: 'BitCoin上拓天地<br>MetaNet里定乾坤'
+    subtitle:
     search: # search bar placeholder
     features:
-      - name: 标签
+      - name: 文章标签
         url: /tags
         icon: fas fa-tags
       # Categories:
@@ -242,7 +242,7 @@ theme_config:
       # Archives:
       #   url: /archives
       #   icon: fas fa-archive
-      - name: 关于
+      - name: 关于本站
         url: /about
         icon: fas fa-user-circle
       - name: 比特币重生计划
@@ -253,7 +253,8 @@ theme_config:
   # Navigation Bar
   navbar:
     logo: # choose [img] or [icon + title]
-      # img: 'https://metanet.press/images/avatar.png'
+      # img: '/images/logo.png'
+      # img: 'https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png'
       # icon: 'https://metanet.press/images/avatar.png'
       title: 邱少闲聊MetaNet
   layout:
@@ -263,7 +264,7 @@ theme_config:
       # 列表中每一篇文章的meta信息
       meta: [title, author, category, date, wordcount, top]
       # 列表类页面的侧边栏
-      sidebar: [blogger, category, tagcloud, qrcode, wechat]
+      sidebar: [blogger, welcome, category, tagcloud, qrcode, wechat]
       # read more button
       readmore: Read More <i class="fas fa-chevron-right"></i>
     # 页面布局
@@ -445,12 +446,30 @@ theme_config:
     # wechat widget
     wechat:
       class: qrcode
+      header:
+        icon: fab fa-weixin
+        title: 扫码关注
       display: [desktop, mobile] # [desktop, mobile]
       # height: 128px  # Automatic height if not set
       fancybox: true
       images:
         - /images/metanet.press.png
     # ---------------------------------------
+    welcome:
+      class: text
+      pid: welcome
+      display: [desktop] # [desktop, mobile]
+      header:
+        icon: fas fa-bullhorn
+        title: 欢迎访问本站
+        # url: https://github.com/xaoxuu/
+      content:
+        - '![](https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png)'
+        - 'BitCoin 上拓天地，MetaNet 里定乾坤。'
+        - '这里是 BSV 骷髅会群主「邱少贤撩MetaNet」的大型现场，保证让各位看官看得高潮迭起，欲罢不能。'
+        - '如果您是第一次访问本站，请先查阅[「比特币重生计划」](../rebirth)了解比特币发展历程的来龙去脉。'
+
+
     # references widget
     references:
       class: references # is subclass of list
@@ -531,7 +550,7 @@ theme_config:
     busuanzi: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js
 
     # npm i --save hexo-wordcount
-    wordcount: #true
+    wordcount: true
 
     ######## Plugins for ...
     # Button Ripple Effect
@@ -551,9 +570,10 @@ theme_config:
       duration: 20000       # Duration (ms)
       fade: 1500            # fade duration (ms) (Not more than 1500)
       images:               # For personal use only. At your own risk if used for commercial purposes !!!
+        - https://imgkr.cn-bj.ufileos.com/66f70234-342d-496e-afc4-95bb817800a9.png
         # - https://www.aithority.com/wp-content/uploads/2019/06/The-Bitcoin-SV-Developers-Hackathon-3-Companies-Win-Direct-Investment.jpg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg
-        - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/BBC19066-E176-47C2-9D22-48C81EE5DF6B.jpeg
+        # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/BBC19066-E176-47C2-9D22-48C81EE5DF6B.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/35F12181-F0E9-45BD-B134-37E4B4A660CF.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/00E0F0ED-9F1C-407A-9AA6-545649D919F4.jpeg

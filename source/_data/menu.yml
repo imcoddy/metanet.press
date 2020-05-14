@@ -1,8 +1,8 @@
 - name: 首页
   url: /
   icon: fas fa-home
-- name: 标签
-  url: /tags
+- name: 文章标签
+  url: /tag
   icon: fas fa-tags
 # Categories:
 #   url: /categories
@@ -10,7 +10,7 @@
 # Archives:
 #   url: /archives
 #   icon: fas fa-archive
-- name: 关于
+- name: 关于本站
   url: /about
   icon: fas fa-user-circle
 - name: 比特币重生计划
