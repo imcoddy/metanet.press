@@ -3,15 +3,19 @@ title: {{ title }}
 date: {{ date }}
 tags:
   - bitcoin
+  - bsv
 img: ''
-summary: ''
+description: ''
 ---
 
 ![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
 本文首发于微信公众号：邱少闲聊 Metanet，欢迎搜索关注第一时间获取更新。
 
-<!-- more -->
+![]()
+
 ##
+
+<!--more-->
 
 ![](https://imgkr.cn-bj.ufileos.com/9c7d15e2-403a-4c2b-b01d-05c4cb14ad42.png)
 
