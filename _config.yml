@@ -292,9 +292,9 @@ theme_config:
     title: # 暂无配置
     # 默认文章作者（可在front-matter中覆盖）
     author:
-      avatar: 'https://metanet.press/images/avatar.png'
+      avatar: '/images/avatar.png'
       name: 邱少贤
-      url: https://metanet.press/about/
+      url: /contact/
     # 文章创建日期
     date:
       icon: fas fa-calendar-alt
@@ -461,10 +461,11 @@ theme_config:
       display: [desktop] # [desktop, mobile]
       header:
         icon: fas fa-bullhorn
-        title: 欢迎访问本站
+        title: 邱少闲聊 MetaNet
         # url: https://github.com/xaoxuu/
       content:
-        - '![](https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png)'
+        # - '![](https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png)'
+        - '![](/images/logo.png)'
         - 'BitCoin 上拓天地，MetaNet 里定乾坤。'
         - '这里是 BSV 骷髅会群主「邱少贤撩MetaNet」的大型现场，保证让各位看官看得高潮迭起，欲罢不能。'
         - '如果您是第一次访问本站，请先查阅[「比特币重生计划」](../rebirth)了解比特币发展历程的来龙去脉。'
