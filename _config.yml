@@ -119,6 +119,19 @@ deploy:
 breadcrumb:
   display: true
 
+hexo_external_link: 
+  enable: true 
+  enable_base64_encode: true 
+  url_param_name: 'u' 
+  html_file_name: 'go.html' 
+  target_blank: true 
+  link_rel: 'external nofollow noopener noreferrer' 
+  domain: 'https://metanet.press/' # 如果开启了防盗链 
+  safety_chain: true
+
+nofollow:
+	enable: true
+
 # offline config passed to sw-precache.
 offline:
   maximumFileSizeToCacheInBytes: 5242880
@@ -127,8 +140,21 @@ offline:
   stripPrefix: public
   verbose: true
 
-nofollow:
-	enable: true
+feed:
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: /images/avatar.png
+  autodiscovery: true
+
 
 watermark:
   enable: true
@@ -477,7 +503,7 @@ theme_config:
       content:
         # - '![](https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png)'
         - '![](/images/logo.png)'
-        - 'BitCoin 上拓天地，MetaNet 里定乾坤。'
+        - '**BitCoin 上拓天地，MetaNet 里定乾坤。**'
         - '这里是 BSV 骷髅会群主「邱少贤撩MetaNet」的大型现场，保证让各位看官看得高潮迭起，欲罢不能。'
         - '如果您是第一次访问本站，请先查阅[「比特币重生计划」](../rebirth)了解比特币发展历程的来龙去脉。'
 
@@ -505,14 +531,16 @@ theme_config:
     # layout of footer: [aplayer, social, license, info, copyright]
     layout: [social, license, copyright]
     social:
+      - icon: fa fa-rss
+        url: /atom.xml
       - icon: fab fa-twitter
         url: https://twitter.com/imcoddy
-      - icon: fab fa-github
-        url: https://github.com/imcoddy
-      - icon: fab fa-weibo
-        url: https://weibo.com/imcoddy
       - icon: fab fa-zhihu
         url: https://www.zhihu.com/people/imcoddy
+      - icon: fab fa-weibo
+        url: https://weibo.com/imcoddy
+      - icon: fab fa-github
+        url: https://github.com/imcoddy
     copyright: '[Copyright © 2019-2020 邱少闲聊MetaNet版权所有](https://metanet.press)'
     # You can add your own property here. (Support markdown, for example: br: '<br>')
     br: '<br>'
@@ -631,7 +659,7 @@ theme_config:
     valine:
       appId: cOEhusjIvF2miHty5CGF9tXD-MdYXbMMI
       appKey: Yzbo1Aw1oSMT6cjGi6nLe9k0
-      js: https://cdn.jsdelivr.net/npm/valine@1.4/dist/Valine.min.js
+      # js: https://cdn.jsdelivr.net/npm/valine@1.4/dist/Valine.min.js
       path: # All pages use the same path (share the same comments data)
       meta: nick,mail,link # valine comment header info
       requiredFields: ['nick','mail']
