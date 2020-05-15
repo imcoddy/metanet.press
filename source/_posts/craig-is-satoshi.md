@@ -118,3 +118,7 @@ CSW 是坚决反对引入隔离见证的方式的，他认为这将更改比特�
 随着年初的创世纪升级成功，持续了数年的比特币的扩容纷争尘埃落定。前两天，在 BSV 测试网上打出了 2.8G 和 3.2G 的巨大区块，这包含着 1000 万个左右的交易，单个区块的手续费达到了 29BSV 和 33BSV，是目前区块奖励（6.25）的 5 倍。这就是比特币减半后支撑网络继续存在和发展的基石，也是比特币唯一的未来。
 
 你，准备好参与其中了么？
+
+![](https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png)
+
+<sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 [metanetpress@moneybutton.com](bitcoin:metanetpress@moneybutton.com) 或者 [1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst](bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst) 请我喝杯咖啡：)</sup></sub>

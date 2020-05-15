@@ -126,7 +126,7 @@ hexo_external_link:
   html_file_name: 'go.html' 
   target_blank: true 
   link_rel: 'external nofollow noopener noreferrer' 
-  domain: 'https://metanet.press/' # 如果开启了防盗链 
+  domain: 'metanet.press' # 如果开启了防盗链 
   safety_chain: true
 
 nofollow:
