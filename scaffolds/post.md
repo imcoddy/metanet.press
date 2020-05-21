@@ -9,7 +9,7 @@ description: ''
 ---
 
 ![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
-本文首发于微信公众号：邱少闲聊 Metanet，欢迎搜索关注第一时间获取更新。
+本文首发于微信公众号【邱少闲聊Metanet】，欢迎搜索关注第一时间获取更新。
 
 ![]()
 

@@ -5,8 +5,8 @@ tags:
   - bsv
   - satoshi
   - history
-img: 'https://imgkr.cn-bj.ufileos.com/a531f4bd-f226-4d80-8886-dd4f280259c8.png'
-description: '当这笔上古老币被移动时，整个币圈沸腾了，毕竟这个区块是出现在比特币刚开始挖矿的一个月内挖出的。人们不禁开始感叹：中本聪要现身了？'
+img: 'https://imgkr.cn-bj.ufileos.com/d4566ec9-3d3a-40b7-8c43-fba43e581b47.png'
+description: '当我们不再拘泥于中本聪本人的身份，而是重新关注于他当年所设定的 Satoshi Vision，这或许是我能想到的中本聪现身的最佳方式。'
 date: 2020-05-21 11:47:13
 ---
 
@@ -49,6 +49,8 @@ date: 2020-05-21 11:47:13
 ![csw's-long-term-advance-notice](https://imgkr.cn-bj.ufileos.com/4ef60ec6-6cbd-40e4-9f57-dec29706d9e6.png)
 
 不过事实上，这消息是两年前发的了。上面的消息也明确说到，这一系列操作将发生在 BTC 减半之后，调整难度之时。(话说，邱少我修图的水平还不错吧)
+
+那么问题来了：BTC 减半后的第一次难度调整是几点几分呢？这一笔转账的发生时间又是什么时候呢？区块链的好处是这个都可以自行查证，不过估计那个点，很多人都在休息吧。
 
 So, did you have a nice night?
 
