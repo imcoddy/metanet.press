@@ -661,7 +661,7 @@ theme_config:
     valine:
       appId: cOEhusjIvF2miHty5CGF9tXD-MdYXbMMI
       appKey: Yzbo1Aw1oSMT6cjGi6nLe9k0
-      # js: https://cdn.jsdelivr.net/npm/valine@1.4/dist/Valine.min.js
+      js: https://unpkg.com/valine@1.4.14/dist/Valine.min.js
       path: # All pages use the same path (share the same comments data)
       meta: nick,mail,link # valine comment header info
       requiredFields: ['nick','mail']
