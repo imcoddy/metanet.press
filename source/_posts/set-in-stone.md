@@ -1,5 +1,5 @@
 ---
-title: 治大国若烹小鲜：
+title: 治大国若烹小鲜：BCH 又要折腾分叉糖果啦？
 tags:
   - bitcoin
   - bsv

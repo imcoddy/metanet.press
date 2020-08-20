@@ -262,13 +262,13 @@ theme_config:
 
   ############################### Layout ###############################
   cover:
-    scheme: docs # docs, blog
+    scheme: focus # docs, blog
     display:
       home: true
       archive: true
       others: false # can be written in front-matter 'cover: true'
-    logo: https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
-    title: 'BitCoin上拓天地<br>MetaNet里定乾坤'
+    logo: https://d33wubrfki0l68.cloudfront.net/b16af6cbd774e16bda1b5a1d19e8fe8b6bd73208/0b901/images/logo.png
+    title:  'BitCoin上拓天地<br>MetaNet里定乾坤'
     subtitle:
     search: # search bar placeholder
     features:
@@ -294,14 +294,14 @@ theme_config:
     logo: # choose [img] or [icon + title]
       # img: '/images/logo.png'
       # img: 'https://imgkr.cn-bj.ufileos.com/63404408-3cae-496e-8094-a3d3b13d3a8f.png'
-      # icon: 'https://metanet.press/images/avatar.png'
+      icon: 'https://metanet.press/images/avatar.png'
       title: 邱少闲聊MetaNet
   layout:
     # The following can be written in `blog/source/_data/layout.yml`
     # 文章列表（主页、自定义的列表）布局
     on_list:
       # 列表中每一篇文章的meta信息
-      meta: [title, author, category, date, wordcount, top]
+      meta: [title, author, category, date, wordcount]
       # 列表类页面的侧边栏
       sidebar: [blogger, welcome, category, tagcloud, qrcode, wechat]
       # read more button
@@ -314,7 +314,7 @@ theme_config:
       # 其中，title只在header中有效，music和thumbnail无需在这里设置，文章中有则显示
       # 如果tags放置在meta.header中，那么在post列表中不显示（因为卡片下方已经有了）
       meta:
-        header: [title, author, category, date, top]
+        header: [title, author, category, date]
         footer: [updated, tags, btns, share]
       # 文章页面的侧边栏
       sidebar: [qrcode, toc]
@@ -612,9 +612,9 @@ theme_config:
       duration: 20000       # Duration (ms)
       fade: 1500            # fade duration (ms) (Not more than 1500)
       images:               # For personal use only. At your own risk if used for commercial purposes !!!
-        - https://imgkr.cn-bj.ufileos.com/66f70234-342d-496e-afc4-95bb817800a9.png
+        # - https://imgkr.cn-bj.ufileos.com/66f70234-342d-496e-afc4-95bb817800a9.png
         # - https://www.aithority.com/wp-content/uploads/2019/06/The-Bitcoin-SV-Developers-Hackathon-3-Companies-Win-Direct-Investment.jpg
-        # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg
+        - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/BBC19066-E176-47C2-9D22-48C81EE5DF6B.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
         # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/35F12181-F0E9-45BD-B134-37E4B4A660CF.jpeg
