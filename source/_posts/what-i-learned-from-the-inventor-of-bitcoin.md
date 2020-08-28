@@ -13,7 +13,7 @@ date: 2020-08-28 20:01:19
 ---
 
 
-![](https://imgkr2.cn-bj.ufileos.com/4e8078d2-dc15-494e-84b4-4fe2aa78a872.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=ZogsWV93MWDPDG5D8loTEvIdZl4%253D&Expires=1598705588)
+![](https://img.particlenews.com/img/id/34VN3a_0PTZlu2t00?type=thumbnail_1024x576)
 
 MoneyButton 的 CEO Ryan Charles 前阵子做了一系列的 Theory Of Bitcoin 访谈，内容十分丰富，本文是该系列的总结，分享于以飨读者。
 

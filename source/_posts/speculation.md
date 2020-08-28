@@ -9,10 +9,6 @@ description: ''
 date: 2020-08-16 09:51:42
 ---
 
-![follow-me](https://i.loli.net/2020/08/23/wuO24fxW35HlIGh.png)
-
-本文首发于微信公众号【邱少闲聊 Metanet】，欢迎搜索关注第一时间获取更新。
-
 ## 竞抄三都赋
 
 ![](https://imgkr2.cn-bj.ufileos.com/d17ae62d-9c31-4f44-8873-5db28085b9d4.jpg?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=%252F%252FYuI1JGFcCMwMON%252BgS57Dbii1U%253D&Expires=1598236834)

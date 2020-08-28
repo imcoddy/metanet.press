@@ -9,15 +9,7 @@ description: ''
 date: 2020-07-31 22:02:10
 ---
 
-![](https://imgkr.cn-bj.ufileos.com/714a9aaf-8719-40e1-b72f-7fe1edd36a22.png)
-本文首发于微信公众号【邱少闲聊 Metanet】，欢迎搜索关注第一时间获取更新。
-
-![]()
-
-##
-
 最近 DeFi 真是非常火啊，好几个网友私信我下面的图片，来询问 DeFi 在 BSV 上的进展。
-
 
 ![](https://imgkr2.cn-bj.ufileos.com/fde7e2b5-307b-4290-83ce-97cfec6a7be1.jpeg?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=0zfDz66w0InngrYmZ5%252FhPAKOJhU%253D&Expires=1596291462)
 
