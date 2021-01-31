@@ -45,6 +45,7 @@ after_script:
     - mv public blog
     - mkdir public
     - mv rebirth public
+    - mv svskull public
     - mv blog public
     - cp deploy/* public/
 
