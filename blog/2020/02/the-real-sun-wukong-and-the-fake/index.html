@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html>
+<head hexo-theme="https://github.com/volantis-x/hexo-theme-volantis/tree/3.0.0">
+  <meta charset="utf-8">
+  <!-- SEO相关 -->
+  
+    
+  
+  <!-- 渲染优化 -->
+  <meta name="renderer" content="webkit">
+  <meta name="force-rendering" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- 页面元数据 -->
+  
+  <title> 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币 - 邱少闲聊MetaNet</title>
+  
+    <meta name="keywords" content="history,fork,scaling,分叉,扩容,历史,genesis,debate,创世纪">
+  
+
+  
+    <meta name="description" content="
+真假美猴王
+所有人都看到一只癫狂的猴子，手舞足蹈地拿着金箍棒，和自己厮打争斗。
+
+如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，...">
+  
+
+  <!-- feed -->
+  
+    <link rel="alternate" href="/blog/atom.xml,rss2.xml" title="邱少闲聊MetaNet">
+  
+
+  <!-- import meta -->
+  
+
+  <!-- link -->
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13/css/all.min.css">
+
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css">
+
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+  
+
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-waves@0.7.6/dist/waves.min.css">
+
+  
+
+  
+
+  
+
+  
+
+  <!-- import link -->
+  
+
+  
+    
+      
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@9.18.1/styles/solarized-light.css">
+
+    
+  
+  
+    
+<link rel="stylesheet" href="/blog/css/style.css">
+
+  
+
+  
+  
+<link rel="stylesheet" href="/blog/css/prism-tomorrow.css" type="text/css"></head>
+
+<body>
+  <header class="l_header auto shadow floatable blur" style="opacity: 0">
+  <div class="container">
+  <div class="wrapper">
+    <div class="nav-sub">
+      <p class="title"></p>
+      <ul class="switcher nav-list-h m-phone" id="pjax-header-nav-list">
+        <li><a class="s-comment fas fa-comments fa-fw" target="_self" href="javascript:void(0)"></a></li>
+        
+          <li><a class="s-toc fas fa-list fa-fw" target="_self" href="javascript:void(0)"></a></li>
+        
+      </ul>
+    </div>
+		<div class="nav-main">
+      
+        
+        <a class="title flat-box" target="_self" href="/blog/">
+          
+          
+            <i class="https://metanet.press/images/avatar.png"></i>
+          
+          
+            邱少闲聊MetaNet
+          
+        </a>
+      
+
+			<div class="menu navigation">
+				<ul class="nav-list-h m-pc">
+          
+          
+          
+            
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/" id="blog">
+                  <i class="fas fa-home fa-fw"></i>首页
+                </a>
+                
+              </li>
+            
+          
+          
+            
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/tag/" id="blogtag">
+                  <i class="fas fa-tags fa-fw"></i>文章标签
+                </a>
+                
+              </li>
+            
+          
+          
+            
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/contact/" id="blogcontact">
+                  <i class="fas fa-user-circle fa-fw"></i>关于本站
+                </a>
+                
+              </li>
+            
+          
+          
+            
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/../rebirth/" id="blogrebirth">
+                  <i class="fab fa-btc fa-fw"></i>比特币重生计划
+                </a>
+                
+              </li>
+            
+          
+          
+				</ul>
+			</div>
+
+      <div class="m_search">
+        <form name="searchform" class="form u-search-form">
+          <i class="icon fas fa-search fa-fw"></i>
+          <input type="text" class="input u-search-input" placeholder="Search...">
+        </form>
+      </div>
+
+			<ul class="switcher nav-list-h m-phone">
+				
+					<li><a class="s-search fas fa-search fa-fw" target="_self" href="javascript:void(0)"></a></li>
+				
+				<li>
+          <a class="s-menu fas fa-bars fa-fw" target="_self" href="javascript:void(0)"></a>
+          <ul class="menu-phone list-v navigation white-box">
+            
+              
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/" id="blog">
+                  <i class="fas fa-home fa-fw"></i>首页
+                </a>
+                
+              </li>
+            
+          
+            
+              
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/tag/" id="blogtag">
+                  <i class="fas fa-tags fa-fw"></i>文章标签
+                </a>
+                
+              </li>
+            
+          
+            
+              
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/contact/" id="blogcontact">
+                  <i class="fas fa-user-circle fa-fw"></i>关于本站
+                </a>
+                
+              </li>
+            
+          
+            
+              
+            
+              <li>
+                <a class="menuitem flat-box faa-parent animated-hover" href="/blog/../rebirth/" id="blogrebirth">
+                  <i class="fab fa-btc fa-fw"></i>比特币重生计划
+                </a>
+                
+              </li>
+            
+          
+            
+          </ul>
+        </li>
+			</ul>
+		</div>
+	</div>
+  </div>
+</header>
+
+  <div class="l_body">
+    <div class="l_cover">
+
+  
+  
+      <div class="cover-wrapper post focus" style="display: none;">
+        
+          <div class="cover-backstretch"></div>
+        
+        <div class="cover-body">
+  <div class="top">
+    
+      <img no-lazy class="logo" src="https://d33wubrfki0l68.cloudfront.net/b16af6cbd774e16bda1b5a1d19e8fe8b6bd73208/0b901/images/logo.png">
+    
+    
+      <p class="title">BitCoin上拓天地<br>MetaNet里定乾坤</p>
+    
+    
+  </div>
+  <div class="bottom">
+    <div class="menu navigation">
+      <div class="list-h">
+        
+          
+            <a href="/blog/tags" id="blogtags">
+              <i class="fas fa-tags fa-fw"></i><p>文章标签</p>
+            </a>
+          
+            <a href="/blog/about" id="blogabout">
+              <i class="fas fa-user-circle fa-fw"></i><p>关于本站</p>
+            </a>
+          
+            <a href="/blog/../rebirth" id="blogrebirth">
+              <i class="fab fa-btc fa-fw"></i><p>比特币重生计划</p>
+            </a>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+        <div class="scroll-down" style="display: none;"><i class="fa fa-chevron-down scroll-down-effects"></i></div>
+      </div>
+  
+
+</div>
+
+    <div class="safearea">
+      <div class="body-wrapper" id="pjax-container">
+        
+          <!--此文件用来存放一些不方便取值的变量-->
+<!--思路大概是将值藏到重加载的区域内-->
+
+
+
+<div id="pjax-data" style="display: none">
+  <div id="pjax-ispage">true</div>
+  <div id="pjax-pageTitle"> 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币</div>
+  <div id="pjax-enable-cover">true</div>
+  <div id="pjax-comment-path">none</div>
+  <div id="pjax-comment-placeholder">none</div>
+</div>
+
+
+<script>
+  // 处理封面 此时 jquery 还没加载
+  if ("none" == "none") { // 移除封面
+    document.getElementsByClassName('cover-wrapper')[0].style.display = "none";
+    document.getElementsByClassName('l_header', 'cover-wrapper')[0].classList.add("show");
+  } else {
+    if ("none" == "blog") { // 半屏
+      document.getElementsByClassName('cover-wrapper')[0].setAttribute('id', 'half');
+      document.getElementsByClassName('scroll-down')[0].style.display = "none";
+    } else if ("none" == "docs") { // 全屏
+      document.getElementsByClassName('cover-wrapper')[0].setAttribute('id', 'full');
+      document.getElementsByClassName('scroll-down')[0].style.display = "";
+    }
+    document.getElementsByClassName('cover-wrapper')[0].style.display = "";
+    document.getElementsByClassName('l_header', 'cover-wrapper')[0].classList.remove("show");
+  }
+</script>
+
+
+        
+        
+
+<div class="l_main">
+  
+
+  
+    <article id="post" class="post white-box reveal md shadow article-type-post" itemscope itemprop="blogPost">
+      
+
+
+  <div class="article-header">
+    
+      
+      <div class="article-meta" id="top">
+        
+        
+        
+          <h1 class="title">
+            <a href="/blog/2020/02/the-real-sun-wukong-and-the-fake/">
+               六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币
+            </a>
+          </h1>
+        
+        <div class="new-meta-box">
+          
+            
+          
+            
+              
+<div class="new-meta-item author">
+  <a class="author" href="/contact/" rel="nofollow">
+    <img no-lazy src="/images/avatar.png">
+    <p>邱少贤</p>
+  </a>
+</div>
+
+            
+          
+            
+              
+
+            
+          
+            
+              <div class="new-meta-item date">
+  <a class="notlink">
+    <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>
+    <p>发布于：2020年2月15日</p>
+  </a>
+</div>
+
+            
+          
+        </div>
+      </div>
+    
+  </div>
+
+
+      <section class="article typo">
+        <div class="article-entry" itemprop="articleBody">
+          
+          
+          <p><img src="https://i.ytimg.com/vi/AI-crnHpYB8/maxresdefault.jpg" alt title="西游记之偷梁换柱"></p>
+<h2 id="真假美猴王"><a href="#真假美猴王" class="headerlink" title="真假美猴王"></a>真假美猴王</h2><blockquote>
+<p>所有人都看到一只癫狂的猴子，手舞足蹈地拿着金箍棒，和自己厮打争斗。</p>
+</blockquote>
+<p>如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，不求长命百岁，只愿万代传名。</p>
+<p>两只猴子模样相同，武器一般，他们为争正名斗得天昏地暗，上天入地，各路神仙辨不出真假，诸山菩萨分不清是非，照妖镜没反应，紧箍咒也失灵，唯有谛听指路奔灵山求佛祖，方才窥破真相，水落石出，六耳死，悟空赢，此回终。</p>
+<a id="more"></a>
+
+<h2 id="漫漫修心路"><a href="#漫漫修心路" class="headerlink" title="漫漫修心路"></a>漫漫修心路</h2><p><img src="https://pic4.zhimg.com/v2-646c576ef8578c7cfb2aa4f44b61e3d8_1200x500.jpg" alt="大话西游" title="大话西游"></p>
+<p>孙悟空在西游记里别号很多，其中之一是 “心猿”，想必是作者吴承恩是以它喻指人的心灵历程。从这个角度来说，六耳猕猴其实是产生于孙悟空的二心。那个时候师徒离心，悟空心中恶的那一面逐渐明显和暴露，六耳猕猴正是因此而萌生、壮大。诸君不见那一回的回目是 “一体难休真寂灭，二心搅动大乾坤”，原因就在于此。</p>
+<p>善和恶，本来就都存在于人的一念之间。人之天性，本无善恶，如果你不注意修心修德，那么势必生出二心，恶压过善，耳目蒙蔽，从而做出损人利己的事。所以王阳明说：“无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。” 去恶从善，我们这个社会，才会越来越好。</p>
+<h2 id="分叉混沌史"><a href="#分叉混沌史" class="headerlink" title="分叉混沌史"></a>分叉混沌史</h2><p><img src="https://d33wubrfki0l68.cloudfront.net/f79c675162fea26f2b8e3757708eb5c3b02c9d97/0aeb4/images/bitcoin-forks.png" alt="bitcoin-forks" title="比特币分叉"></p>
+<p>比特币诞生至今，已经过了十个年头。在此期间，因持续几年的 <a href="http://www.bsvers.com/43.html" target="_blank" rel="external nofollow noopener noreferrer" title="比特币扩容争议">比特币扩容争议</a> 无果，比特币分叉为 Bitcoin Core 和 Bitcoin Cash，随后又分叉为 Bitcoin ABC 和 Bitcoin SV。</p>
+<p>区块链的分叉带来的是事实上的分裂，也造成了真假比特币的认知偏差。对于一知半解的圈外人来说，他们自然很容易受所看到的信息影响，将比特币 (Bitcoin) 的名号映射到 BTC 这个代号之上，而作为竞争者的 BSV 则因争议不断平白受到不少无端诋毁。这些人，恰恰很少能认真思考一下，比特币究竟能做什么。</p>
+<p>在上一篇文章 <a href="https://mp.weixin.qq.com/s/LSUQy-DpESp_yVpp88gR5w" target="_blank" rel="external nofollow noopener noreferrer" title="Merkle 树下有乾坤">Merkle 树下有乾坤</a> 里面我们说到，比特币一开始就是为大规模交易而设计的，可惜的是还在襁褓之中便被加上 1M 的枷锁，直到最近的创世纪升级后才得以解脱。所以说比特币曾经差点出师未捷身先死，用长使英雄泪满襟来形容并不为过。</p>
+<p>类似的争论还出现于对 P2SH 和 Segwit 的不同看法上，Core 的开发者沉迷于一些华而不实的奇巧淫技，却始终无法理解 <strong>比特币是一个经济驱动的激励系统，其最独特而有别于前人的创新之处，是通过经济激励的手段解决了信任问题</strong>。比特币的底层协议已经足够完善，之前遇到的绝大多数问题可以通过开放扩容让矿工自由竞争即可解决。而当人们从经济的角度来考虑比特币的问题的时候，例如巨块攻击的成本，零确认的安全性等等，其实很多问题都能迎刃而解。</p>
+<p>西游记里六耳猕猴孙悟空的真假之争还可以求助于如来佛祖，现实中 BTC 和 BSV 的争论又将如何收尾呢？作为比特币的创作者，CSW 博士认为比特币的代码在 MIT 协议许可之下，是可以自由分叉的，但对于 BTC 这样共用了比特币历史交易的数据集、并试图偷梁换柱将新系统假冒为旧的系统的做法，终将受到法律的制裁。</p>
+<p>CSW 博士在 <a href="https://mp.weixin.qq.com/s/OdKEaTF2YgJb36un_6TBMw" target="_blank" rel="external nofollow noopener noreferrer" title="CSW: 分叉和假冒品">最新的文章</a> 中这样说道：</p>
+<blockquote>
+<p>作为比特币的唯一创建者，我拥有比特币的全部权利。人们可以使用比特币的软件实现并制作其他版本，但无权使用比特币的基础数据集并更改协议。Bitcoin Core（BTC）以及 Bitcoin ABC（BCH）都试图在未经授权的情况下使用我的基础数据集。他们没有向我寻求许可，而是企图攻击我并侮辱我。今年，我将负责并掌控我的系统。那些参与复制系统并冒充为比特币的复制者，即 BTC 和 BCH，请相信我，在律师介入之前我可以表现得很友好。</p>
+</blockquote>
+<h2 id="比特币之道"><a href="#比特币之道" class="headerlink" title="比特币之道"></a>比特币之道</h2><blockquote>
+<p>有道无术，术尚可求也，有术无道，止于术。</p>
+</blockquote>
+<p>上面这句话说出了 “术” 与 “道” 的区别：有术无道，顶多也就是个 “技艺人”，无法再升华；而有了 “道”，就等于有了 “智慧”，有 “道” 者，求 “术” 几乎易如反掌。</p>
+<p>这是 <a href="https://metanet.press/" title="比特币重生：重返创世纪">比特币重生：重返创世纪</a> 的开篇，是希望各位读者在研究比特币的技术细节之前，能先了解比特币之道。如果我们不搞清楚 “术” 与 “道” 的区别，就容易导致目标、方法、方向都走偏了，而这样的情况的确出现了：BTC 在暗网上流行作为毒品、军火、偷渡和色情等犯罪的支付工具，ICO 成为非法发行证券以及非法集资、金融诈骗、传销等违法犯罪活动的新方式，以致于大众听到比特币和区块链就敬而远之。</p>
+<p>中本聪 2011 年后便消声匿迹了，因看到自己的发明并人们用于构建暗网进行非法交易毒品而一度心灰意冷，差一点让比特币完全落入无政府主义支持者的手里。币圈里太多的人似乎陷入了竭斯底里的幻觉之中：</p>
+<ul>
+<li>他们喊着 Decentralize （去中心化），却希望自己成为权利的中心；</li>
+<li>他们宣称 Code Is Law （代码即法律），却忘却了冷冰冰的代码无法正确处理复杂的社会纠纷；</li>
+<li>他们希望 Everyone Can Run a Node （人人可运行节点），却不知那些业余的节点事实上拖累了整个系统的效率</li>
+<li>……</li>
+</ul>
+<p>而这一些广为流传道貌岸然的口号，事实上从来都不是比特币白皮书所描述的理念。</p>
+<p>再回头去看看 <a href="https://nakamotoinstitute.org/bitcoin/" target="_blank" rel="external nofollow noopener noreferrer" title="Bitcoin: A Peer-to-Peer Electronic Cash System">比特币白皮书</a> 里 Honest 这个词出现了多少次吧！比特币是一个诚实系统，它最重要的组成成分恰恰不是密码学，而是经济学以及背后的人文思想，其伟大之处在于经济激励会使得多次博弈之后，诚实的力量会因坚守而得以积累而经得起考验，最终占据优势。</p>
+<p>而这，正是 Metanet 的奥义所在：每一笔交易都有迹可循，每个人对自己的交易负责，而比特币矿工会如实打包记录到区块链上，普天之下，无论个人还是政府均一视同仁。你可以选择如何花费自己的币，但在被人顺藤摸瓜揪出来审视的时候，希望能够经得起人们的质疑和检验。毕竟，公开透明能够消除许多见不得光的操作，The best cure for corruption is sunshine.</p>
+<p>己所不欲，勿施于人。当你年岁已高，将比特币传给自己子孙的时候，敢不敢告诉他们，自己当年曾用比特币做过什么呢？</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/be77d669-d9a8-46ed-b6b1-8f48692f3b9b.png" alt></p>
+<p><sub><sup>喜欢本文的话，欢迎关注本公众号，或者打赏比特币至 <a href="bitcoin:metanetpress@moneybutton.com" rel="external nofollow noopener noreferrer" target="_blank">metanetpress@moneybutton.com</a> 或者 <a href="bitcoin:1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst" rel="external nofollow noopener noreferrer" target="_blank">1GT6fnb7zbtzjy9pC3iyEwdpg11ax9nRst</a> 请我喝杯咖啡：)</sup></sub></p>
+
+          
+            <div class="article_footer">
+              
+                
+  
+    
+    
+
+
+
+  
+
+  
+    
+    
+
+
+
+  
+
+  
+    
+    
+
+<section class="widget copyright  desktop mobile">
+  <div class="content">
+    
+      <blockquote>
+        
+          
+            <p>博客内容遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</p>
+
+          
+        
+          
+            <p>本文永久链接是：<a href="https://metanet.press/blog/2020/02/the-real-sun-wukong-and-the-fake/">https://metanet.press/blog/2020/02/the-real-sun-wukong-and-the-fake/</a></p>
+          
+        
+      </blockquote>
+    
+  </div>
+</section>
+
+  
+
+  
+    
+    
+
+<section class="widget qrcode  desktop mobile">
+  
+
+  <div class="content article-entry">
+    
+      
+        <div class="fancybox"><img src="/blog/images/reward/wechat.png" height="128px"></div>
+      
+    
+      
+        <div class="fancybox"><img src="/blog/images/reward/alipay.png" height="128px"></div>
+      
+    
+  </div>
+</section>
+
+  
+
+
+              
+            </div>
+          
+        </div>
+        
+          
+
+
+  <div class="article-meta" id="bottom">
+    <div class="new-meta-box">
+      
+        
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2021-05-12T00:41:52+08:00">
+  <a class="notlink">
+    <i class="fas fa-edit fa-fw" aria-hidden="true"></i>
+    <p>更新于：2021年5月12日</p>
+  </a>
+</div>
+
+        
+      
+        
+          
+  
+  <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/history/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>history</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/fork/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>fork</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/scaling/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>scaling</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/%E5%88%86%E5%8F%89/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>分叉</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/%E6%89%A9%E5%AE%B9/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>扩容</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/%E5%8E%86%E5%8F%B2/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>历史</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/genesis/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>genesis</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/debate/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>debate</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="/blog/tags/%E5%88%9B%E4%B8%96%E7%BA%AA/" rel="nofollow"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i><p>创世纪</p></a></div>
+
+
+        
+      
+        
+          
+
+        
+      
+        
+          
+  <div class="new-meta-item share -mob-share-list">
+  <div class="-mob-share-list share-body">
+    
+      
+        <a class="-mob-share-qq" title rel="external nofollow noopener noreferrer" href="http://connect.qq.com/widget/shareqq/index.html?url=https://metanet.press/blog/2020/02/the-real-sun-wukong-and-the-fake/&title= 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币 - 邱少闲聊MetaNet&summary=
+真假美猴王
+所有人都看到一只癫狂的猴子，手舞足蹈地拿着金箍棒，和自己厮打争斗。
+
+如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，不求长命百岁，只愿万代传名。
+两只猴子模样相同，武器一般，他们为争正名斗得天昏地暗，上天入地，各路神仙辨不出真假，诸山菩萨分不清是非，照妖镜没反应，紧箍咒也失灵，唯有谛听指路奔灵山求佛祖，方才窥破真相，水落石出，六耳死，悟空赢，此回终。" target="_blank">
+          
+            <img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/128/qq.png">
+          
+        </a>
+      
+    
+      
+        <a class="-mob-share-qzone" title rel="external nofollow noopener noreferrer" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://metanet.press/blog/2020/02/the-real-sun-wukong-and-the-fake/&title= 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币 - 邱少闲聊MetaNet&summary=
+真假美猴王
+所有人都看到一只癫狂的猴子，手舞足蹈地拿着金箍棒，和自己厮打争斗。
+
+如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，不求长命百岁，只愿万代传名。
+两只猴子模样相同，武器一般，他们为争正名斗得天昏地暗，上天入地，各路神仙辨不出真假，诸山菩萨分不清是非，照妖镜没反应，紧箍咒也失灵，唯有谛听指路奔灵山求佛祖，方才窥破真相，水落石出，六耳死，悟空赢，此回终。" target="_blank">
+          
+            <img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/128/qzone.png">
+          
+        </a>
+      
+    
+      
+        <a class="-mob-share-weibo" title rel="external nofollow noopener noreferrer" href="http://service.weibo.com/share/share.php?url=https://metanet.press/blog/2020/02/the-real-sun-wukong-and-the-fake/&title= 六耳猕猴孙悟空：BSV 与 BTC 哪个才是真的比特币 - 邱少闲聊MetaNet&summary=
+真假美猴王
+所有人都看到一只癫狂的猴子，手舞足蹈地拿着金箍棒，和自己厮打争斗。
+
+如果要选西游记中最令人疑惑不解的妖怪，想必是非六耳猕猴莫属。这妖怪无名无姓，无来历无师承，趁着悟空被唐僧逐走之隙，光天化日之下蹦了出来，不吃唐僧肉，不伤老百姓，却非要变成悟空模样，抢了行李去拜佛求经。原来他竟想替了唐僧，自取真经，不求长命百岁，只愿万代传名。
+两只猴子模样相同，武器一般，他们为争正名斗得天昏地暗，上天入地，各路神仙辨不出真假，诸山菩萨分不清是非，照妖镜没反应，紧箍咒也失灵，唯有谛听指路奔灵山求佛祖，方才窥破真相，水落石出，六耳死，悟空赢，此回终。" target="_blank">
+          
+            <img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/128/weibo.png">
+          
+        </a>
+      
+    
+      
+        
+        <div class="hoverbox">
+          <a class="share"><img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/128/wechat.png"></a>
+          <div class="target">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATgAAAE4CAAAAADqFLC2AAADrUlEQVR42u3aMXIjMQwEQP3/03ZuBwQGlAzJzcxXq12ymUxh7vFlReuBABw4cOAscOCWwD3C9euFP/49fa77vdNz1d9VzwsOHDhw4MCBA7cNrhwAD88fP9z89+r30wvunhccOHDgwIEDB24rXPXgadBNg/Q06F47Lzhw4MCBAwcO3IfDdQNn+r1bA1dw4MCBAwcOHLj/Cne7WO5eyK3fgQMHDhw4cODAvStcu6ANC+DuYDINxGubfHDgwIEDBw4cuEtw3dU9yLa/4/OCAwcOHDhw4MAtgZuutBBOg2h1UJl+57gPcODAgQMHDhy4JXBpQEwHgWlhnQbY7kUfLwYcOHDgwIEDB24JXBo8q4PNKtR0gFodZKYDUHDgwIEDBw4cuHeB6xbQ1Q1OB47pc92LjwtpcODAgQMHDhy4F8F1C94p4K1C+lZBXf09OHDgwIEDBw7cVrguTDownAbULmR33+0ADA4cOHDgwIEDtwQuLZinxfA0mE4L6fL7wYEDBw4cOHDglsDdLo5f/Vw1wKbB+NjkgwMHDhw4cODALYGbFr/jjYUrLaLbwRwcOHDgwIEDB24JXHdj00I63fDtwBvvDxw4cODAgQMHbgncaZ2Cb/f30wFjd19PL6TBgQMHDhw4cOD+CG4agG8V2dOLTAei3SIcHDhw4MCBAwduG1z3BacNT//uXuQ0eJcDPDhw4MCBAwcO3DK4aVE73XAVpBq0u4V0+XzgwIEDBw4cOHBL4KYDyDSQdg/evejphYMDBw4cOHDgwL0LXDcId4Pp7cDbHkDeCubgwIEDBw4cOHBL4NIXdMHSYPss6DjggwMHDhw4cODALYGrAl4rdMP/4FcdfE4Hpsf3gAMHDhw4cODALYFLC+XuBqcX8KwA3A364MCBAwcOHDhwW+FSiLTYTkG6RfN0gQMHDhw4cODAbYdLB43TAeKWAH48Jzhw4MCBAwcO3FK47obT30+L4RQqDb7gwIEDBw4cOHDb4KbrdjGcAqQBvh30wYEDBw4cOHDglsBdC4bDINwdUN4K7F14cODAgQMHDhy4bXBp4E030r2IFD4NwODAgQMHDhw4cO8GVx0Udg/0rAL8VhFd/h44cODAgQMHDtyHw6WDzHQf1eA+HnSCAwcOHDhw4MB9GFw6sEwP3A3Ot74LDhw4cODAgQO3Fa5bSKeBdloYV5+fBmlw4MCBAwcOHLjtcNMCN4VLYafBPX4POHDgwIEDBw7cEjirOeBEAA4cOHAWOHB/u74BXvoAJlWW+CwAAAAASUVORK5CYII=">
+          </div>
+        </div>
+      
+    
+  </div>
+</div>
+
+
+
+        
+      
+    </div>
+  </div>
+
+
+        
+        
+          <div class="prev-next">
+            
+              <a class="prev" href="/blog/2020/02/kill-off-the-forks/">
+                <p class="title"><i class="fas fa-chevron-left" aria-hidden="true"></i>同根生何煎太急 比特王国三年内战最终将鹿死谁手</p>
+                <p class="content">
+相煎何太急曹植，字子建，沛国谯县人，生于东武阳（今山东莘县，一说鄄城），是曹操与卞夫人所生第三子。因为特别有才而受宠，曹操好几次几乎要立曹植为太子。然而，曹植恃才放旷，文人气浓、常常任性而行而...</p>
+              </a>
+            
+            
+              <a class="next" href="/blog/2020/02/scalability-underneath-the-merkel-tree/">
+                <p class="title">Merkle 树下有乾坤：比特币原本就是为扩容而生<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
+                <p class="content">
+一树一乾坤
+佛曰：一花一世界，一树一菩提。
+
+这个故事是这样讲的：佛在灵山，众人问法。佛不说话，只随手拿起一朵金婆罗花，示之。众弟子不解，唯迦叶尊者破颜微笑。只有他悟出道来了。宇宙间的奥秘，不...</p>
+              </a>
+            
+          </div>
+        
+      </section>
+    </article>
+  
+
+  
+    
+
+  <article class="post white-box reveal comments shadow">
+    <section class="article typo">
+      <p ct><i class="fas fa-comments"></i> 评论</p>
+      
+      <section id="comments">
+        <div id="valine_container" class="valine_thread">
+  <i class="fas fa-cog fa-spin fa-fw fa-2x"></i>
+</div>
+
+      </section>
+    </section>
+  </article>
+
+
+  
+
+
+
+
+<!-- 根据页面mathjax变量决定是否加载MathJax数学公式js -->
+
+
+</div>
+<aside class="l_side">
+  
+  
+
+  
+    
+    
+
+
+
+  <section class="widget toc-wrapper shadow desktop mobile" id="toc-div">
+    
+  <header>
+    
+      <i class="fas fa-list fa-fw" aria-hidden="true"></i><span class="name">本文目录</span>
+    
+  </header>
+
+
+    <div class="content">
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#真假美猴王"><span class="toc-text">真假美猴王</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#漫漫修心路"><span class="toc-text">漫漫修心路</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#分叉混沌史"><span class="toc-text">分叉混沌史</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#比特币之道"><span class="toc-text">比特币之道</span></a></li></ol>
+    </div>
+  </section>
+
+
+  
+
+
+</aside>
+
+
+
+      </div>
+      
+  
+  <footer class="clearfix">
+    <br><br>
+    
+      
+        <br>
+        <div class="social-wrapper">
+          
+            
+              <a href="/blog/atom.xml" class="social fa fa-rss flat-btn" target="_blank" rel="external nofollow noopener noreferrer">
+              </a>
+            
+          
+            
+              <a href="https://twitter.com/imcoddy" class="social fab fa-twitter flat-btn" target="_blank" rel="external nofollow noopener noreferrer">
+              </a>
+            
+          
+            
+              <a href="https://www.zhihu.com/people/imcoddy" class="social fab fa-zhihu flat-btn" target="_blank" rel="external nofollow noopener noreferrer">
+              </a>
+            
+          
+            
+              <a href="https://weibo.com/imcoddy" class="social fab fa-weibo flat-btn" target="_blank" rel="external nofollow noopener noreferrer">
+              </a>
+            
+          
+            
+              <a href="https://github.com/imcoddy" class="social fab fa-github flat-btn" target="_blank" rel="external nofollow noopener noreferrer">
+              </a>
+            
+          
+        </div>
+      
+    
+      
+        <div><p>博客内容遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="external nofollow noopener noreferrer">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</a></p>
+</div>
+      
+    
+      
+        <div class="copyright">
+        <p><a href="https://metanet.press">Copyright © 2019-2020 邱少闲聊MetaNet版权所有</a></p>
+
+        </div>
+      
+    
+  </footer>
+
+
+      <a class="s-top fas fa-arrow-up fa-fw" href="javascript:void(0)"></a>
+    </div>
+  </div>
+  <div>
+    
+      
+  
+
+  <div id="rightmenu-wrapper">
+    <ul class="list-v rightmenu" id="rightmenu-content">
+      <li class="option">
+        <a class="vlts-menu opt fix-cursor-default" id="menu-copy-text" onclick="document.execCommand(" copy")"><i class="fa fa-copy fa-fw"></i>复制文本</a>
+        <hr id="hr-text">
+        <a class="vlts-menu opt fix-cursor-default" id="menu-copy-href"><i class="fa fa-link fa-fw"></i>复制链接</a>
+        <a class="vlts-menu opt fix-cursor-default" id="menu-open-href"><i class="fa fa-external-link-square-alt fa-fw"></i>在新标签页打开</a>
+        <hr id="hr-href">
+        <a class="vlts-menu opt fix-cursor-default" id="menu-copy-src"><i class="fa fa-image fa-fw"></i>复制图片地址</a>
+        <hr id="hr-src">
+      </li>
+      
+        <li class="navigation">
+          <a class="nav icon-only fix-cursor-default" onclick="history.back()"><i class="fa fa-arrow-left fa-fw"></i></a>
+          <a class="nav icon-only fix-cursor-default" onclick="history.forward()"><i class="fa fa-arrow-right fa-fw"></i></a>
+          <a class="nav icon-only fix-cursor-default" onclick="window.location.reload()"><i class="fa fa-redo fa-fw"></i></a>
+          <a class="nav icon-only fix-cursor-default" href="/"><i class="fa fa-home fa-fw"></i></a>
+        </li>
+      
+      <hr>
+      
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" href="https://volantis.js.org/faqs/" id="https:volantisjsorgfaqs" rel="external nofollow noopener noreferrer" target="_blank">
+        <i class="fa fa-question fa-fw"></i> 常见问题
+      </a>
+    </li>
+  
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" href="https://volantis.js.org/examples/" id="https:volantisjsorgexamples" rel="external nofollow noopener noreferrer" target="_blank">
+        <i class="fa fa-rss fa-fw"></i> 示例博客
+      </a>
+    </li>
+  
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" href="https://volantis.js.org/contributors/" id="https:volantisjsorgcontributors" rel="external nofollow noopener noreferrer" target="_blank">
+        <i class="fa fa-fan fa-spin fa-fw"></i> 加入社区
+      </a>
+    </li>
+  
+        
+      
+        
+          <hr>
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" href="https://github.com/volantis-x/volantis-docs/" id="https:githubcomvolantis-xvolantis-docs" rel="external nofollow noopener noreferrer" target="_blank">
+        <i class="fa fa-code-branch fa-fw"></i> 本站源码
+      </a>
+    </li>
+  
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" href="https://github.com/volantis-x/hexo-theme-volantis/" id="https:githubcomvolantis-xhexo-theme-volantis" rel="external nofollow noopener noreferrer" target="_blank">
+        <i class="fa fa-code-branch fa-fw"></i> 主题源码
+      </a>
+    </li>
+  
+        
+      
+        
+          <hr>
+        
+      
+        
+          
+    <li>
+      <a class="vlts-menu fix-cursor-default" onclick="document.execCommand('print')">
+        <i class="fa fa-print fa-fw"></i> 打印页面
+      </a>
+    </li>
+  
+        
+      
+        
+          <hr>
+        
+      
+        
+      
+    </ul>
+  </div>
+
+  <script>
+    window.document.oncontextmenu = function (event) {
+      if (event.ctrlKey) return true;
+      if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true;
+      return popMenu(event);
+    };
+    document.addEventListener("click", function (event) {
+      var mymenu = document.getElementById('rightmenu-wrapper');
+      mymenu.style.display = "none";
+    });
+    function popMenu(event) {
+      var mymenu = document.getElementById('rightmenu-wrapper');
+      var menuContent = document.getElementById('rightmenu-content');
+      var screenWidth = document.documentElement.clientWidth || document.body.clientWidth;
+      var screenHeight = document.documentElement.clientHeight || document.body.clientHeight;
+      mymenu.style.left = event.clientX + "px"; // 获取鼠标位置
+      mymenu.style.top = event.clientY + "px";
+      mymenu.style.display = 'block';
+      if (event.clientX * 2 > screenWidth) {
+        menuContent.classList.add('left');
+      } else {
+        menuContent.classList.remove('left');
+      }
+      if (event.clientY * 2 > screenHeight) {
+        menuContent.classList.add('top');
+      } else {
+        menuContent.classList.remove('top');
+      }
+
+      let hrText = document.getElementById('hr-text');
+      let hrSrc = document.getElementById('hr-src');
+      let hrHref = document.getElementById('hr-href');
+
+      // 选中图片
+      let copySrc = document.getElementById('menu-copy-src');
+      if (copySrc != undefined) {
+        if (event.target.currentSrc) {
+          copySrc.style.display = 'block';
+          copySrc.addEventListener("click", function (e) {
+            copyString(event.target.currentSrc);
+          },{once: true});
+          hrSrc.style.display = 'block';
+        } else {
+          copySrc.style.display = 'none';
+          hrSrc.style.display = 'none';
+        }
+      }
+
+      // 选中按钮
+      // 判断是不是按钮
+      let href = '';
+      if (event.path) {
+        for (i = 0; i < event.path.length; i++) {
+          if (event.path[i].href != undefined && event.path[i].href.length > 0) {
+            href = event.path[i].href;
+          }
+        }
+      }
+
+      let copyText = document.getElementById('menu-copy-text');
+      copyText.style.display = 'none';
+      hrText.style.display = 'none';
+      if (href.length == 0) {
+        // 选中文本
+        if (window.getSelection().toString()) {
+          copyText.style.display = 'block';
+          hrText.style.display = 'block';
+        }
+      }
+
+      // 在新标签页打开
+      let openHref = document.getElementById('menu-open-href');
+      if (openHref != undefined) {
+        if (href.length > 0) {
+          openHref.style.display = 'block';
+          openHref.addEventListener("click", function (e) {
+            window.open(href);
+          },{once: true});
+          hrHref.style.display = 'block';
+        } else {
+          openHref.style.display = 'none';
+          hrHref.style.display = 'none';
+        }
+      }
+      // 复制链接
+      let copyHref = document.getElementById('menu-copy-href');
+      if (copyHref != undefined) {
+        if (href.length > 0) {
+          copyHref.style.display = 'block';
+          copyHref.addEventListener("click", function (e) {
+            copyString(href);
+          },{once: true});
+        } else {
+          copyHref.style.display = 'none';
+        }
+      }
+
+      // 有音乐播放器
+      if (false == true && ('home,help,examples,contributors,hr,source_docs,source_theme,hr,print,hr,music'||[]).includes('music')) {
+        // 如果有aplayer，初始化一下
+      	try {
+      		checkAPlayer();
+          updateTitle();
+      	} catch (error) {
+      		console.log(error);
+      	}
+      }
+
+      return false; // 该行代码确保系统自带的右键菜单不会被调出
+    }
+    function hideMenu() {
+      document.getElementById('rightmenu-wrapper').style.display = 'none';
+    }
+    function copyString(str) {
+      const input = document.createElement('input');
+      input.setAttribute('readonly', 'readonly');
+      document.body.appendChild(input);
+      input.setAttribute('value', str);
+      input.select();
+      document.execCommand('copy');
+      document.body.removeChild(input);
+    }
+    document.execCommand('click');
+  </script>
+
+
+    
+    <!-- required -->
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5/dist/jquery.min.js"></script>
+
+
+
+<!-- optional -->
+
+  
+  
+  
+    
+<script src="https://cdn.jsdelivr.net/npm/jquery-backstretch@2.1.18/jquery.backstretch.min.js"></script>
+
+    <script type="text/javascript">
+      $(function(){
+        var imgs=["https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg"];
+        if ('false' == 'true') {
+          function shuffle(arr){
+            /*From countercurrent-time*/
+            var n = arr.length;
+            while(n--) {
+              var index = Math.floor(Math.random() * n);
+              var temp = arr[index];
+              arr[index] = arr[n];
+              arr[n] = temp;
+            }
+          }
+          shuffle(imgs);
+        }
+        if ('.cover-backstretch') {
+          $('.cover-backstretch').backstretch(
+            imgs,
+          {
+            duration: "20000",
+            fade: "1500"
+          });
+        } else {
+          $.backstretch(
+            imgs,
+          {
+            duration: "20000",
+            fade: "1500"
+          });
+        }
+      });
+    </script>
+  
+
+
+
+  <script>
+  
+  var SEARCH_SERVICE = "hexo" || "hexo";
+  var ROOT = "/blog/" || "/";
+  if (!ROOT.endsWith('/')) ROOT += '/';
+</script>
+
+
+
+
+
+
+  <script async src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2/js/instant_page.js" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script>
+  function pjax_fancybox() {
+    $(".md").find("img").not('.inline').not('a img').each(function () { //渲染 fancybox
+      var element = document.createElement("a"); // a 标签
+      $(element).attr("class", "fancybox");
+      $(element).attr("pjax-fancybox", "");  // 过滤 pjax
+      $(element).attr("href", $(this).attr("src"));
+      if ($(this).attr("data-original")) {
+        $(element).attr("href", $(this).attr("data-original"));
+      }
+      $(element).attr("data-fancybox", "images");
+      var caption = "";   // 描述信息
+      if ($(this).attr('alt')) {  // 判断当前页面是否存在描述信息
+        $(element).attr('data-caption', $(this).attr('alt'));
+        caption = $(this).attr('alt');
+      }
+      var div = document.createElement("div");
+      $(div).addClass("fancybox");
+      $(this).wrap(div); // 最外层套 div ，其实主要作用还是 class 样式
+      var span = document.createElement("span");
+      $(span).addClass("image-caption");
+      $(span).text(caption); // 加描述
+      $(this).after(span);  // 再套一层描述
+      $(this).wrap(element);  // 最后套 a 标签
+    })
+    $(".article-entry").find("img").fancybox({
+      selector: '[data-fancybox="images"]',
+      hash: false,
+      loop: false,
+      closeClick: true,
+      helpers: {
+        overlay: {closeClick: true}
+      },
+      buttons: [
+        "zoom",
+        "close"
+      ]
+    });
+  };
+  $(function () {
+    pjax_fancybox();
+  });
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+    var clipboard = new ClipboardJS('.btn-copy', {
+        target: function (trigger) {
+            return trigger.nextElementSibling
+        }
+    });
+    function wait(callback, seconds) {
+        var timelag = null;
+        timelag = window.setTimeout(callback, seconds)
+    }
+    function pjax_initCopyCode() {
+        var copyHtml = '';
+        copyHtml += '<button class="btn-copy" data-clipboard-snippet="">';
+        copyHtml += '<i class="fas fa-copy"></i><span>COPY</span>';
+        copyHtml += '</button>';
+        $(".highlight .code pre").before(copyHtml);
+        $(".article pre code").before(copyHtml);
+        clipboard.off('success').on('success', function (e) {
+            let $btn = $(e.trigger);
+            $btn.addClass('copied');
+            let $icon = $($btn.find('i'));
+            $icon.removeClass('fa-copy');
+            $icon.addClass('fa-check-circle');
+            let $span = $($btn.find('span'));
+            $span[0].innerText = 'COPIED';
+            wait(function () {
+                $icon.removeClass('fa-check-circle');
+                $icon.addClass('fa-copy');
+                $span[0].innerText = 'COPY'
+            }, 2000)
+        });
+        clipboard.off('error').on('error', function (e) {
+            e.clearSelection();
+            let $btn = $(e.trigger);
+            $btn.addClass('copy-failed');
+            let $icon = $($btn.find('i'));
+            $icon.removeClass('fa-copy');
+            $icon.addClass('fa-times-circle');
+            let $span = $($btn.find('span'));
+            $span[0].innerText = 'COPY FAILED';
+            wait(function () {
+                $icon.removeClass('fa-times-circle');
+                $icon.addClass('fa-copy');
+                $span[0].innerText = 'COPY'
+            }, 2000)
+        })
+    }
+    $(function () {
+        pjax_initCopyCode()
+    });
+</script>
+
+
+
+   <script src="https://cdn.jsdelivr.net/npm/scrollreveal@4.0.6/dist/scrollreveal.min.js"></script>
+<script type="text/javascript">
+  function pjax_scrollrebeal() {
+    ScrollReveal().reveal('.l_main .reveal', {
+      distance: '8px',
+      duration: '800',
+      interval: '100',
+      scale: '1',
+      easing: 'ease-out'
+    });
+  }
+  $(function () {
+    pjax_scrollrebeal();
+  });
+</script>
+
+
+
+
+
+
+  
+  
+<script src="https://unpkg.com/valine@1.4.14/dist/Valine.min.js"></script>
+
+
+<script>
+  var GUEST_INFO = ['nick', 'mail', 'link'];
+  var meta = 'nick,mail,link'.split(',').filter(function (item) {
+    return GUEST_INFO.indexOf(item) > -1
+  });
+  var REQUIRED_FIELDS = ['nick', 'mail', 'link'];
+  var requiredFields = 'nick,mail'.split(',').filter(function (item) {
+    return REQUIRED_FIELDS.indexOf(item) > -1
+  });
+
+  function emoji(path, idx, ext) {
+    return path + "/" + path + "-" + idx + "." + ext;
+  }
+
+  var emojiMaps = {};
+  for (var i = 1; i <= 54; i++) {
+    emojiMaps['tieba-' + i] = emoji('tieba', i, 'png');
+  }
+  for (var i = 1; i <= 101; i++) {
+    emojiMaps['qq-' + i] = emoji('qq', i, 'gif');
+  }
+  for (var i = 1; i <= 116; i++) {
+    emojiMaps['aru-' + i] = emoji('aru', i, 'gif');
+  }
+  for (var i = 1; i <= 125; i++) {
+    emojiMaps['twemoji-' + i] = emoji('twemoji', i, 'png');
+  }
+  for (var i = 1; i <= 4; i++) {
+    emojiMaps['weibo-' + i] = emoji('weibo', i, 'png');
+  }
+
+  function pjax_valine() {
+    let pageUrl = $.trim($('#pjax-comment-path').text()) === "none" ? 
+      decodeURI(window.location.pathname) : $.trim($('#pjax-comment-path').text());
+    let pagePlaceholder = $.trim($('#pjax-comment-placeholder').text()) === "none" ?
+      "快来评论吧~" : $.trim($('#pjax-comment-placeholder').text());
+
+    let ALLPATH = '';
+    if(ALLPATH != '') pageUrl = ALLPATH;
+
+    var valine = new Valine();
+    valine.init({
+      el: '#valine_container',
+      meta: meta,
+      placeholder: pagePlaceholder,
+      path: pageUrl,
+      appId: "cOEhusjIvF2miHty5CGF9tXD-MdYXbMMI",
+      appKey: "Yzbo1Aw1oSMT6cjGi6nLe9k0",
+      pageSize: '10',
+      avatar: 'robohash',
+      lang: 'zh-cn',
+      visitor: 'true',
+      highlight: 'true',
+      mathJax: 'false',
+      enableQQ: 'true',
+      requiredFields: requiredFields,
+      emojiCDN: 'https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/valine/',
+      emojiMaps: emojiMaps
+    })
+  }
+
+  $(function () {
+    pjax_valine();
+  });
+</script>
+
+
+
+
+
+
+
+  
+<script src="/blog/js/app.js"></script>
+
+
+
+
+  
+    
+<script src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2.6.5/js/search.js"></script>
+
+  
+
+
+
+
+  
+<script src="https://cdn.jsdelivr.net/npm/node-waves@0.7.6/dist/waves.min.js"></script>
+
+  <script type="text/javascript">
+    $(function () {
+      Waves.attach('.flat-btn', ['waves-button']);
+      Waves.attach('.float-btn', ['waves-button', 'waves-float']);
+      Waves.attach('.float-btn-light', ['waves-button', 'waves-float', 'waves-light']);
+      Waves.attach('.flat-box', ['waves-block']);
+      Waves.attach('.float-box', ['waves-block', 'waves-float']);
+      Waves.attach('.waves-image');
+      Waves.init();
+    });
+  </script>
+
+
+
+  
+<script src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2/js/comment_typing.js"></script>
+
+
+
+
+  
+    
+<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.1/build/highlight.min.js"></script>
+
+    <script>hljs.initHighlightingOnLoad();</script>
+  
+
+
+
+
+<!-- more -->
+
+
+    
+      
+
+
+<script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script>
+
+<!-- 样式位于：source/css/_third-party/pjaxanimate.styl -->
+
+<div class="pjax-animate">
+  
+    <script src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
+    <div id="loading-bar-wrapper"><script>NProgress.configure({parent:"#loading-bar-wrapper",trickleSpeed: 100})</script></div>
+    <script>
+      window.ShowLoading = function() {
+        NProgress.start();
+      };
+      window.HideLoading = function() {
+        NProgress.done();
+      }
+    </script>
+  
+</div>
+
+<script>
+    var pjax;
+    document.addEventListener('DOMContentLoaded', function () {
+      pjax = new Pjax({
+        elements: 'a[href]:not([href^="#"]):not([href="javascript:void(0)"]):not([pjax-fancybox])',
+        selectors: [
+          "title",
+          "#pjax-container",
+          "#pjax-header-nav-list"
+        ],
+        cacheBust: false,   // url 地址追加时间戳，用以避免浏览器缓存
+        timeout: 5000
+      });
+    });
+
+    document.addEventListener('pjax:send', function (e) {
+      window.stop(); // 相当于点击了浏览器的停止按钮
+
+      try {
+        var currentUrl = window.location.pathname;
+        var targetUrl = e.triggerElement.href;
+        var banUrl = [""];
+        if (banUrl[0] != "") {
+          banUrl.forEach(item => {
+            if(currentUrl.indexOf(item) != -1 || targetUrl.indexOf(item) != -1) {
+              window.location.href = targetUrl;
+            }
+          });
+        }
+      } catch (error) {}
+
+      window.subData = null; // 移除标题（用于一二级导航栏切换处）
+      $.fancybox.close();    // 关闭弹窗
+      $('.l_header .switcher .s-search').removeClass('active'); // 关闭移动端激活的搜索框
+      $('.l_header').removeClass('z_search-open'); // 关闭移动端激活的搜索框
+      $('.wrapper').removeClass('sub'); // 跳转页面时关闭二级导航
+
+      // 解绑事件 避免重复监听
+      $('.s-top').unbind('click');
+      $('.menu a').unbind('click');
+      $(window).unbind('resize');
+      $(window).unbind('scroll');
+      $(document).unbind('scroll');
+      $(document).unbind('click');
+      $('body').unbind('click');
+      window.ShowLoading();
+    });
+
+    document.addEventListener('pjax:complete', function () {
+      // 关于百度统计对 SPA 页面的处理：
+      // 方案一：百度统计>管理>单页应用设置中，打开开启按钮即可对SPA进行统计。 https://tongji.baidu.com/web/help/article?id=324
+      // 方案二：取消注释下列代码。 https://tongji.baidu.com/web/help/article?id=235
+      // 
+
+      // 关于谷歌统计对 SPA 页面的处理：
+      // 当应用以动态方式加载内容并更新地址栏中的网址时，也应该更新通过 gtag.js 存储的网页网址。
+      // https://developers.google.cn/analytics/devguides/collection/gtagjs/single-page-applications?hl=zh-cn
+      
+
+      $('.nav-main').find('.list-v').not('.menu-phone').removeAttr("style",""); // 移除小尾巴的移除
+      $('.menu-phone.list-v').removeAttr("style",""); // 移除小尾巴的移除
+      $('script[data-pjax], .pjax-reload script').each(function () {
+        $(this).parent().append($(this).remove());
+      });
+      try{
+        pjax_fancybox();
+        
+          
+          if ('.cover') {
+            $('.cover').backstretch("resize");
+          } else {
+            $.backstretch("resize");
+          }
+        
+        
+        document.querySelectorAll('pre code').forEach((block) => {
+          hljs.highlightBlock(block);
+        });
+        
+        
+          pjax_scrollrebeal();
+        
+        
+          pjax_initCopyCode();
+        
+        
+          pjax_valine();
+        
+        
+        
+        
+        
+      } catch (e) {
+        console.log(e);
+      }
+      window.HideLoading();
+    });
+
+    document.addEventListener('pjax:error', function (e) {
+      window.HideLoading();
+      window.location.href = e.triggerElement.href;
+    });
+</script>
+
+    
+  </div>
+
+        <script src="//cdn.jsdelivr.net/npm/js-base64/base64.min.js"></script>
+        <script>
+        $('a').each(function() {
+          const $this = $(this);
+          const href = $this.attr('href');
+          if (href && href.match('^((http|https|thunder|qqdl|ed2k|Flashget|qbrowser|ftp|rtsp|mms)://)')) {
+            const strs = href.split('/');
+            if (strs.length >= 3) {
+                const host = strs[2];
+                if (host !== 'metanet.press' || window.location.host) {
+                    $this.attr('href', '/blog/go.html?u='+Base64.encode(href)+'').attr('rel', 'external nofollow noopener noreferrer');
+                    if (true) {
+                        $this.attr('target', '_blank');
+                    }
+                }
+            }
+          }
+        });
+        </script></body>
+</html>
